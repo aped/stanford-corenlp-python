@@ -743,7 +743,7 @@ class TransportSocket(Transport):
         - improve this (e.g. make sure that connections are closed, socket-files are deleted etc.)
         - exception-handling? (socket.error)
     """
-    def __init__( self, addr, limit=4096, sock_type=socket.AF_INET, sock_prot=socket.SOCK_STREAM, timeout=5.0, logfunc=log_dummy ):
+    def __init__( self, addr, limit=4096, sock_type=socket.AF_INET, sock_prot=socket.SOCK_STREAM, timeout=50.0, logfunc=log_dummy ):
         """
         :Parameters:
             - addr: socket-address

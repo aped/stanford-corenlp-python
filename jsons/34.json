@@ -1,0 +1,2935 @@
+{
+  "coref": [
+    [
+      [
+        [
+          "we", 
+          1, 
+          6, 
+          6, 
+          7
+        ], 
+        [
+          "we", 
+          0, 
+          3, 
+          3, 
+          4
+        ]
+      ], 
+      [
+        [
+          "we", 
+          2, 
+          1, 
+          11, 
+          12
+        ], 
+        [
+          "we", 
+          0, 
+          3, 
+          3, 
+          4
+        ]
+      ], 
+      [
+        [
+          "We", 
+          5, 
+          0, 
+          0, 
+          1
+        ], 
+        [
+          "we", 
+          0, 
+          3, 
+          3, 
+          4
+        ]
+      ], 
+      [
+        [
+          "we", 
+          5, 
+          1, 
+          11, 
+          12
+        ], 
+        [
+          "we", 
+          0, 
+          3, 
+          3, 
+          4
+        ]
+      ], 
+      [
+        [
+          "us", 
+          7, 
+          5, 
+          5, 
+          6
+        ], 
+        [
+          "we", 
+          0, 
+          3, 
+          3, 
+          4
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "them", 
+          3, 
+          3, 
+          13, 
+          14
+        ], 
+        [
+          "a few locals about what was going on", 
+          2, 
+          4, 
+          2, 
+          10
+        ]
+      ], 
+      [
+        [
+          "they", 
+          5, 
+          4, 
+          14, 
+          15
+        ], 
+        [
+          "a few locals about what was going on", 
+          2, 
+          4, 
+          2, 
+          10
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "my", 
+          3, 
+          4, 
+          4, 
+          5
+        ], 
+        [
+          "I", 
+          3, 
+          2, 
+          2, 
+          3
+        ]
+      ], 
+      [
+        [
+          "My", 
+          4, 
+          0, 
+          0, 
+          1
+        ], 
+        [
+          "I", 
+          3, 
+          2, 
+          2, 
+          3
+        ]
+      ], 
+      [
+        [
+          "me", 
+          4, 
+          8, 
+          8, 
+          9
+        ], 
+        [
+          "I", 
+          3, 
+          2, 
+          2, 
+          3
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "the opportunity", 
+          4, 
+          6, 
+          15, 
+          17
+        ], 
+        [
+          "an opportunity to read a few verses of Scripture", 
+          3, 
+          3, 
+          22, 
+          31
+        ]
+      ], 
+      [
+        [
+          "the opportunity", 
+          7, 
+          5, 
+          14, 
+          16
+        ], 
+        [
+          "an opportunity to read a few verses of Scripture", 
+          3, 
+          3, 
+          22, 
+          31
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "My friend , Alen Dubravec ,", 
+          4, 
+          1, 
+          0, 
+          6
+        ], 
+        [
+          "Alen Dubravec", 
+          4, 
+          4, 
+          3, 
+          5
+        ]
+      ], 
+      [
+        [
+          "My friend", 
+          4, 
+          1, 
+          0, 
+          2
+        ], 
+        [
+          "Alen Dubravec", 
+          4, 
+          4, 
+          3, 
+          5
+        ]
+      ], 
+      [
+        [
+          "he", 
+          4, 
+          0, 
+          10, 
+          11
+        ], 
+        [
+          "Alen Dubravec", 
+          4, 
+          4, 
+          3, 
+          5
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "sins , the just", 
+          6, 
+          1, 
+          11, 
+          15
+        ], 
+        [
+          "the just", 
+          6, 
+          4, 
+          13, 
+          15
+        ]
+      ], 
+      [
+        [
+          "sins", 
+          6, 
+          1, 
+          11, 
+          12
+        ], 
+        [
+          "the just", 
+          6, 
+          4, 
+          13, 
+          15
+        ]
+      ]
+    ]
+  ], 
+  "sentences": [
+    {
+      "parsetree": "(ROOT (FRAG (NP (NN Today)) (, ,) (SBAR (IN as) (S (NP (PRP we)) (VP (VBD were) (PP (IN in) (NP (NNP Vara)))))) (. ?)))", 
+      "text": "Today, as we were in Vara?", 
+      "dependencies": [
+        [
+          "root", 
+          "ROOT", 
+          "Today"
+        ], 
+        [
+          "mark", 
+          "were", 
+          "as"
+        ], 
+        [
+          "nsubj", 
+          "were", 
+          "we"
+        ], 
+        [
+          "dep", 
+          "Today", 
+          "were"
+        ], 
+        [
+          "prep_in", 
+          "were", 
+          "Vara"
+        ]
+      ], 
+      "words": [
+        [
+          "Today", 
+          {
+            "NormalizedNamedEntityTag": "THIS", 
+            "Timex": "<TIMEX3 tid=\"t1\" alt_value=\"THIS P1D\" type=\"DATE\" temporalFunction=\"true\" valueFromFunction=\"tf0\" anchorTimeID=\"t0\">Today</TIMEX3>", 
+            "Lemma": "today", 
+            "CharacterOffsetEnd": "13", 
+            "PartOfSpeech": "NN", 
+            "CharacterOffsetBegin": "8", 
+            "NamedEntityTag": "DATE"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "14", 
+            "CharacterOffsetBegin": "13", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "as", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "17", 
+            "CharacterOffsetBegin": "15", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "as"
+          }
+        ], 
+        [
+          "we", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "20", 
+            "CharacterOffsetBegin": "18", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "we"
+          }
+        ], 
+        [
+          "were", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "25", 
+            "CharacterOffsetBegin": "21", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "in", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "28", 
+            "CharacterOffsetBegin": "26", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "in"
+          }
+        ], 
+        [
+          "Vara", 
+          {
+            "NamedEntityTag": "PERSON", 
+            "CharacterOffsetEnd": "33", 
+            "CharacterOffsetBegin": "29", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Vara"
+          }
+        ], 
+        [
+          "?", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "34", 
+            "CharacterOffsetBegin": "33", 
+            "PartOfSpeech": ".", 
+            "Lemma": "?"
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (S (NP (NN din)) (VP (VBG witnessing) (PP (IN in) (NP (DT the) (NN town) (NN square))))) (NP (PRP we)) (VP (VBD noticed) (NP (NP (DT a) (JJ large) (NN number)) (PP (IN of) (NP (NN police)))) (PP (IN on) (NP (DT every) (NN street))) (, ,) (PP (VBG including) (NP (NP (JJ special) (NN police) (NNS forces)) (PP (IN in) (NP (NN riot) (NN gear)))))) (. .)))", 
+      "text": "din witnessing in the town square we noticed a large number of police on every street, including special police forces in riot gear.", 
+      "dependencies": [
+        [
+          "nsubj", 
+          "witnessing", 
+          "din"
+        ], 
+        [
+          "dep", 
+          "noticed", 
+          "witnessing"
+        ], 
+        [
+          "det", 
+          "square", 
+          "the"
+        ], 
+        [
+          "nn", 
+          "square", 
+          "town"
+        ], 
+        [
+          "prep_in", 
+          "witnessing", 
+          "square"
+        ], 
+        [
+          "nsubj", 
+          "noticed", 
+          "we"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "noticed"
+        ], 
+        [
+          "det", 
+          "number", 
+          "a"
+        ], 
+        [
+          "amod", 
+          "number", 
+          "large"
+        ], 
+        [
+          "dobj", 
+          "noticed", 
+          "number"
+        ], 
+        [
+          "prep_of", 
+          "number", 
+          "police"
+        ], 
+        [
+          "det", 
+          "street", 
+          "every"
+        ], 
+        [
+          "prep_on", 
+          "noticed", 
+          "street"
+        ], 
+        [
+          "amod", 
+          "forces", 
+          "special"
+        ], 
+        [
+          "nn", 
+          "forces", 
+          "police"
+        ], 
+        [
+          "prep_including", 
+          "noticed", 
+          "forces"
+        ], 
+        [
+          "nn", 
+          "gear", 
+          "riot"
+        ], 
+        [
+          "prep_in", 
+          "forces", 
+          "gear"
+        ]
+      ], 
+      "words": [
+        [
+          "din", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "37", 
+            "CharacterOffsetBegin": "34", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "din"
+          }
+        ], 
+        [
+          "witnessing", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "48", 
+            "CharacterOffsetBegin": "38", 
+            "PartOfSpeech": "VBG", 
+            "Lemma": "witness"
+          }
+        ], 
+        [
+          "in", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "51", 
+            "CharacterOffsetBegin": "49", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "in"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "55", 
+            "CharacterOffsetBegin": "52", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "town", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "60", 
+            "CharacterOffsetBegin": "56", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "town"
+          }
+        ], 
+        [
+          "square", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "67", 
+            "CharacterOffsetBegin": "61", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "square"
+          }
+        ], 
+        [
+          "we", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "70", 
+            "CharacterOffsetBegin": "68", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "we"
+          }
+        ], 
+        [
+          "noticed", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "78", 
+            "CharacterOffsetBegin": "71", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "notice"
+          }
+        ], 
+        [
+          "a", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "80", 
+            "CharacterOffsetBegin": "79", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "a"
+          }
+        ], 
+        [
+          "large", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "86", 
+            "CharacterOffsetBegin": "81", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "large"
+          }
+        ], 
+        [
+          "number", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "93", 
+            "CharacterOffsetBegin": "87", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "number"
+          }
+        ], 
+        [
+          "of", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "96", 
+            "CharacterOffsetBegin": "94", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "of"
+          }
+        ], 
+        [
+          "police", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "103", 
+            "CharacterOffsetBegin": "97", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "police"
+          }
+        ], 
+        [
+          "on", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "106", 
+            "CharacterOffsetBegin": "104", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "on"
+          }
+        ], 
+        [
+          "every", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "112", 
+            "CharacterOffsetBegin": "107", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "every"
+          }
+        ], 
+        [
+          "street", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "119", 
+            "CharacterOffsetBegin": "113", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "street"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "120", 
+            "CharacterOffsetBegin": "119", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "including", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "130", 
+            "CharacterOffsetBegin": "121", 
+            "PartOfSpeech": "VBG", 
+            "Lemma": "include"
+          }
+        ], 
+        [
+          "special", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "138", 
+            "CharacterOffsetBegin": "131", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "special"
+          }
+        ], 
+        [
+          "police", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "145", 
+            "CharacterOffsetBegin": "139", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "police"
+          }
+        ], 
+        [
+          "forces", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "152", 
+            "CharacterOffsetBegin": "146", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "force"
+          }
+        ], 
+        [
+          "in", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "155", 
+            "CharacterOffsetBegin": "153", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "in"
+          }
+        ], 
+        [
+          "riot", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "160", 
+            "CharacterOffsetBegin": "156", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "riot"
+          }
+        ], 
+        [
+          "gear", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "165", 
+            "CharacterOffsetBegin": "161", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "gear"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "166", 
+            "CharacterOffsetBegin": "165", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (PP (IN After) (S (VP (VBG questioning) (NP (NP (DT a) (JJ few) (NNS locals)) (PP (IN about) (SBAR (WHNP (WP what)) (S (VP (VBD was) (VP (VBG going) (PP (IN on))))))))))) (, ,) (NP (PRP we)) (VP (VBD were) (VP (VBN told) (SBAR (IN that) (S (NP (DT another) (NN anti-government) (NN protest)) (VP (MD would) (VP (VB be) (VP (VBG taking) (NP (NN place)) (PP (IN in) (PP (IN about) (NP (CD 45) (NNS minutes))))))))))) (. .)))", 
+      "text": "After questioning a few locals about what was going on, we were told that another anti-government protest would be taking place in about 45 minutes.", 
+      "dependencies": [
+        [
+          "prepc_after", 
+          "told", 
+          "questioning"
+        ], 
+        [
+          "det", 
+          "locals", 
+          "a"
+        ], 
+        [
+          "amod", 
+          "locals", 
+          "few"
+        ], 
+        [
+          "dobj", 
+          "questioning", 
+          "locals"
+        ], 
+        [
+          "nsubj", 
+          "going", 
+          "what"
+        ], 
+        [
+          "aux", 
+          "going", 
+          "was"
+        ], 
+        [
+          "prepc_about", 
+          "locals", 
+          "going"
+        ], 
+        [
+          "prep", 
+          "going", 
+          "on"
+        ], 
+        [
+          "nsubjpass", 
+          "told", 
+          "we"
+        ], 
+        [
+          "auxpass", 
+          "told", 
+          "were"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "told"
+        ], 
+        [
+          "complm", 
+          "taking", 
+          "that"
+        ], 
+        [
+          "det", 
+          "protest", 
+          "another"
+        ], 
+        [
+          "nn", 
+          "protest", 
+          "anti-government"
+        ], 
+        [
+          "nsubj", 
+          "taking", 
+          "protest"
+        ], 
+        [
+          "aux", 
+          "taking", 
+          "would"
+        ], 
+        [
+          "aux", 
+          "taking", 
+          "be"
+        ], 
+        [
+          "ccomp", 
+          "told", 
+          "taking"
+        ], 
+        [
+          "dobj", 
+          "taking", 
+          "place"
+        ], 
+        [
+          "prep", 
+          "taking", 
+          "in"
+        ], 
+        [
+          "pcomp", 
+          "in", 
+          "about"
+        ], 
+        [
+          "num", 
+          "minutes", 
+          "45"
+        ], 
+        [
+          "prep_about", 
+          "in", 
+          "minutes"
+        ]
+      ], 
+      "words": [
+        [
+          "After", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "172", 
+            "CharacterOffsetBegin": "167", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "after"
+          }
+        ], 
+        [
+          "questioning", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "184", 
+            "CharacterOffsetBegin": "173", 
+            "PartOfSpeech": "VBG", 
+            "Lemma": "question"
+          }
+        ], 
+        [
+          "a", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "186", 
+            "CharacterOffsetBegin": "185", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "a"
+          }
+        ], 
+        [
+          "few", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "190", 
+            "CharacterOffsetBegin": "187", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "few"
+          }
+        ], 
+        [
+          "locals", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "197", 
+            "CharacterOffsetBegin": "191", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "local"
+          }
+        ], 
+        [
+          "about", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "203", 
+            "CharacterOffsetBegin": "198", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "about"
+          }
+        ], 
+        [
+          "what", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "208", 
+            "CharacterOffsetBegin": "204", 
+            "PartOfSpeech": "WP", 
+            "Lemma": "what"
+          }
+        ], 
+        [
+          "was", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "212", 
+            "CharacterOffsetBegin": "209", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "going", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "218", 
+            "CharacterOffsetBegin": "213", 
+            "PartOfSpeech": "VBG", 
+            "Lemma": "go"
+          }
+        ], 
+        [
+          "on", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "221", 
+            "CharacterOffsetBegin": "219", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "on"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "222", 
+            "CharacterOffsetBegin": "221", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "we", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "225", 
+            "CharacterOffsetBegin": "223", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "we"
+          }
+        ], 
+        [
+          "were", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "230", 
+            "CharacterOffsetBegin": "226", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "told", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "235", 
+            "CharacterOffsetBegin": "231", 
+            "PartOfSpeech": "VBN", 
+            "Lemma": "tell"
+          }
+        ], 
+        [
+          "that", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "240", 
+            "CharacterOffsetBegin": "236", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "that"
+          }
+        ], 
+        [
+          "another", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "248", 
+            "CharacterOffsetBegin": "241", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "another"
+          }
+        ], 
+        [
+          "anti-government", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "264", 
+            "CharacterOffsetBegin": "249", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "anti-government"
+          }
+        ], 
+        [
+          "protest", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "272", 
+            "CharacterOffsetBegin": "265", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "protest"
+          }
+        ], 
+        [
+          "would", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "278", 
+            "CharacterOffsetBegin": "273", 
+            "PartOfSpeech": "MD", 
+            "Lemma": "would"
+          }
+        ], 
+        [
+          "be", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "281", 
+            "CharacterOffsetBegin": "279", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "taking", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "288", 
+            "CharacterOffsetBegin": "282", 
+            "PartOfSpeech": "VBG", 
+            "Lemma": "take"
+          }
+        ], 
+        [
+          "place", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "294", 
+            "CharacterOffsetBegin": "289", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "place"
+          }
+        ], 
+        [
+          "in", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "297", 
+            "CharacterOffsetBegin": "295", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "in"
+          }
+        ], 
+        [
+          "about", 
+          {
+            "Timex": "<TIMEX3 tid=\"t1\" value=\"PT45M\" type=\"DURATION\" mod=\"APPROX\">about 45 minutes</TIMEX3>", 
+            "CharacterOffsetEnd": "303", 
+            "Lemma": "about", 
+            "PartOfSpeech": "IN", 
+            "CharacterOffsetBegin": "298", 
+            "NamedEntityTag": "DURATION"
+          }
+        ], 
+        [
+          "45", 
+          {
+            "Timex": "<TIMEX3 tid=\"t1\" value=\"PT45M\" type=\"DURATION\" mod=\"APPROX\">about 45 minutes</TIMEX3>", 
+            "CharacterOffsetEnd": "306", 
+            "Lemma": "45", 
+            "PartOfSpeech": "CD", 
+            "CharacterOffsetBegin": "304", 
+            "NamedEntityTag": "DURATION"
+          }
+        ], 
+        [
+          "minutes", 
+          {
+            "NormalizedNamedEntityTag": "0.0", 
+            "Timex": "<TIMEX3 tid=\"t1\" value=\"PT45M\" type=\"DURATION\" mod=\"APPROX\">about 45 minutes</TIMEX3>", 
+            "Lemma": "minute", 
+            "CharacterOffsetEnd": "314", 
+            "PartOfSpeech": "NNS", 
+            "CharacterOffsetBegin": "307", 
+            "NamedEntityTag": "NUMBER"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "315", 
+            "CharacterOffsetBegin": "314", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (ADVP (RB Thankfully)) (, ,) (NP (PRP I)) (VP (VP (VBD had) (NP (PRP$ my) (NN gospel) (NNS signs)) (PP (IN in) (NP (DT the) (NN car)))) (CC and) (VP (MD could) (VP (VB retrieve) (NP (PRP them)) (PP (IN in) (NP (NP (NN time)) (PP (IN for) (NP (PDT all) (DT the) (NNS protesters))))) (S (VP (TO to) (VP (VB have) (NP (DT an) (NN opportunity) (S (VP (TO to) (VP (VB read) (NP (NP (DT a) (JJ few) (NNS verses)) (PP (IN of) (NP (NNP Scripture)))))))))))))) (. .)))", 
+      "text": "Thankfully, I had my gospel signs in the car and could retrieve them in time for all the protesters to have an opportunity to read a few verses of Scripture.", 
+      "dependencies": [
+        [
+          "advmod", 
+          "had", 
+          "Thankfully"
+        ], 
+        [
+          "nsubj", 
+          "had", 
+          "I"
+        ], 
+        [
+          "nsubj", 
+          "retrieve", 
+          "I"
+        ], 
+        [
+          "xsubj", 
+          "have", 
+          "I"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "had"
+        ], 
+        [
+          "poss", 
+          "signs", 
+          "my"
+        ], 
+        [
+          "nn", 
+          "signs", 
+          "gospel"
+        ], 
+        [
+          "dobj", 
+          "had", 
+          "signs"
+        ], 
+        [
+          "det", 
+          "car", 
+          "the"
+        ], 
+        [
+          "prep_in", 
+          "had", 
+          "car"
+        ], 
+        [
+          "aux", 
+          "retrieve", 
+          "could"
+        ], 
+        [
+          "conj_and", 
+          "had", 
+          "retrieve"
+        ], 
+        [
+          "dobj", 
+          "retrieve", 
+          "them"
+        ], 
+        [
+          "prep_in", 
+          "retrieve", 
+          "time"
+        ], 
+        [
+          "predet", 
+          "protesters", 
+          "all"
+        ], 
+        [
+          "det", 
+          "protesters", 
+          "the"
+        ], 
+        [
+          "prep_for", 
+          "time", 
+          "protesters"
+        ], 
+        [
+          "aux", 
+          "have", 
+          "to"
+        ], 
+        [
+          "xcomp", 
+          "retrieve", 
+          "have"
+        ], 
+        [
+          "det", 
+          "opportunity", 
+          "an"
+        ], 
+        [
+          "dobj", 
+          "have", 
+          "opportunity"
+        ], 
+        [
+          "aux", 
+          "read", 
+          "to"
+        ], 
+        [
+          "infmod", 
+          "opportunity", 
+          "read"
+        ], 
+        [
+          "det", 
+          "verses", 
+          "a"
+        ], 
+        [
+          "amod", 
+          "verses", 
+          "few"
+        ], 
+        [
+          "dobj", 
+          "read", 
+          "verses"
+        ], 
+        [
+          "prep_of", 
+          "verses", 
+          "Scripture"
+        ]
+      ], 
+      "words": [
+        [
+          "Thankfully", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "326", 
+            "CharacterOffsetBegin": "316", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "thankfully"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "327", 
+            "CharacterOffsetBegin": "326", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "I", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "329", 
+            "CharacterOffsetBegin": "328", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "I"
+          }
+        ], 
+        [
+          "had", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "333", 
+            "CharacterOffsetBegin": "330", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "have"
+          }
+        ], 
+        [
+          "my", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "336", 
+            "CharacterOffsetBegin": "334", 
+            "PartOfSpeech": "PRP$", 
+            "Lemma": "my"
+          }
+        ], 
+        [
+          "gospel", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "343", 
+            "CharacterOffsetBegin": "337", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "gospel"
+          }
+        ], 
+        [
+          "signs", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "349", 
+            "CharacterOffsetBegin": "344", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "sign"
+          }
+        ], 
+        [
+          "in", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "352", 
+            "CharacterOffsetBegin": "350", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "in"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "356", 
+            "CharacterOffsetBegin": "353", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "car", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "360", 
+            "CharacterOffsetBegin": "357", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "car"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "364", 
+            "CharacterOffsetBegin": "361", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "could", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "370", 
+            "CharacterOffsetBegin": "365", 
+            "PartOfSpeech": "MD", 
+            "Lemma": "could"
+          }
+        ], 
+        [
+          "retrieve", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "379", 
+            "CharacterOffsetBegin": "371", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "retrieve"
+          }
+        ], 
+        [
+          "them", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "384", 
+            "CharacterOffsetBegin": "380", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "they"
+          }
+        ], 
+        [
+          "in", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "387", 
+            "CharacterOffsetBegin": "385", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "in"
+          }
+        ], 
+        [
+          "time", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "392", 
+            "CharacterOffsetBegin": "388", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "time"
+          }
+        ], 
+        [
+          "for", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "396", 
+            "CharacterOffsetBegin": "393", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "for"
+          }
+        ], 
+        [
+          "all", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "400", 
+            "CharacterOffsetBegin": "397", 
+            "PartOfSpeech": "PDT", 
+            "Lemma": "all"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "404", 
+            "CharacterOffsetBegin": "401", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "protesters", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "415", 
+            "CharacterOffsetBegin": "405", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "protester"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "418", 
+            "CharacterOffsetBegin": "416", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "have", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "423", 
+            "CharacterOffsetBegin": "419", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "have"
+          }
+        ], 
+        [
+          "an", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "426", 
+            "CharacterOffsetBegin": "424", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "a"
+          }
+        ], 
+        [
+          "opportunity", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "438", 
+            "CharacterOffsetBegin": "427", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "opportunity"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "441", 
+            "CharacterOffsetBegin": "439", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "read", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "446", 
+            "CharacterOffsetBegin": "442", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "read"
+          }
+        ], 
+        [
+          "a", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "448", 
+            "CharacterOffsetBegin": "447", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "a"
+          }
+        ], 
+        [
+          "few", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "452", 
+            "CharacterOffsetBegin": "449", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "few"
+          }
+        ], 
+        [
+          "verses", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "459", 
+            "CharacterOffsetBegin": "453", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "verse"
+          }
+        ], 
+        [
+          "of", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "462", 
+            "CharacterOffsetBegin": "460", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "of"
+          }
+        ], 
+        [
+          "Scripture", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "472", 
+            "CharacterOffsetBegin": "463", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Scripture"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "473", 
+            "CharacterOffsetBegin": "472", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (S (NP (NP (PRP$ My) (NN friend)) (, ,) (NP (NNP Alen) (NNP Dubravec)) (, ,)) (VP (VBD was) (PP (IN with) (NP (PRP me))))) (CC and) (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ glad) (S (VP (TO to) (VP (VB have) (NP (DT the) (NN opportunity)) (ADVP (RB also)))))))) (. .)))", 
+      "text": "My friend, Alen Dubravec, was with me and he was glad to have the opportunity also.", 
+      "dependencies": [
+        [
+          "poss", 
+          "friend", 
+          "My"
+        ], 
+        [
+          "nsubj", 
+          "was", 
+          "friend"
+        ], 
+        [
+          "nn", 
+          "Dubravec", 
+          "Alen"
+        ], 
+        [
+          "appos", 
+          "friend", 
+          "Dubravec"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "was"
+        ], 
+        [
+          "prep_with", 
+          "was", 
+          "me"
+        ], 
+        [
+          "nsubj", 
+          "glad", 
+          "he"
+        ], 
+        [
+          "cop", 
+          "glad", 
+          "was"
+        ], 
+        [
+          "conj_and", 
+          "was", 
+          "glad"
+        ], 
+        [
+          "aux", 
+          "have", 
+          "to"
+        ], 
+        [
+          "xcomp", 
+          "glad", 
+          "have"
+        ], 
+        [
+          "det", 
+          "opportunity", 
+          "the"
+        ], 
+        [
+          "dobj", 
+          "have", 
+          "opportunity"
+        ], 
+        [
+          "advmod", 
+          "have", 
+          "also"
+        ]
+      ], 
+      "words": [
+        [
+          "My", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "476", 
+            "CharacterOffsetBegin": "474", 
+            "PartOfSpeech": "PRP$", 
+            "Lemma": "my"
+          }
+        ], 
+        [
+          "friend", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "483", 
+            "CharacterOffsetBegin": "477", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "friend"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "484", 
+            "CharacterOffsetBegin": "483", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "Alen", 
+          {
+            "NamedEntityTag": "PERSON", 
+            "CharacterOffsetEnd": "489", 
+            "CharacterOffsetBegin": "485", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Alen"
+          }
+        ], 
+        [
+          "Dubravec", 
+          {
+            "NamedEntityTag": "PERSON", 
+            "CharacterOffsetEnd": "498", 
+            "CharacterOffsetBegin": "490", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Dubravec"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "499", 
+            "CharacterOffsetBegin": "498", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "was", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "503", 
+            "CharacterOffsetBegin": "500", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "with", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "508", 
+            "CharacterOffsetBegin": "504", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "with"
+          }
+        ], 
+        [
+          "me", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "511", 
+            "CharacterOffsetBegin": "509", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "I"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "515", 
+            "CharacterOffsetBegin": "512", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "he", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "518", 
+            "CharacterOffsetBegin": "516", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "he"
+          }
+        ], 
+        [
+          "was", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "522", 
+            "CharacterOffsetBegin": "519", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "glad", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "527", 
+            "CharacterOffsetBegin": "523", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "glad"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "530", 
+            "CharacterOffsetBegin": "528", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "have", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "535", 
+            "CharacterOffsetBegin": "531", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "have"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "539", 
+            "CharacterOffsetBegin": "536", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "opportunity", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "551", 
+            "CharacterOffsetBegin": "540", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "opportunity"
+          }
+        ], 
+        [
+          "also", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "556", 
+            "CharacterOffsetBegin": "552", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "also"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "557", 
+            "CharacterOffsetBegin": "556", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (S (NP (PRP We)) (VP (VBP do) (RB n't) (VP (VB know) (SBAR (WHNP (WHADJP (WRB how) (JJ many)) (NNS people)) (S (VP (VBD were) (ADVP (RB there)))))))) (, ,) (CC but) (S (NP (PRP we)) (VP (VBP do) (S (VP (VB know) (NP (PRP they)) (SBAR (S (NP (DT all)) (VP (VBD had) (NP (DT a) (NN chance) (S (VP (TO to) (VP (VB read) (S (`` ``) (ADVP (RB Only)) (NP (NNP Jesus)) (VP (VBZ Saves)))))))))))))) (. .)))", 
+      "text": "We don't know how many people were there, but we do know they all had a chance to read \"Only Jesus Saves.", 
+      "dependencies": [
+        [
+          "nsubj", 
+          "know", 
+          "We"
+        ], 
+        [
+          "aux", 
+          "know", 
+          "do"
+        ], 
+        [
+          "neg", 
+          "know", 
+          "n't"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "know"
+        ], 
+        [
+          "advmod", 
+          "many", 
+          "how"
+        ], 
+        [
+          "amod", 
+          "people", 
+          "many"
+        ], 
+        [
+          "nsubj", 
+          "were", 
+          "people"
+        ], 
+        [
+          "ccomp", 
+          "know", 
+          "were"
+        ], 
+        [
+          "advmod", 
+          "were", 
+          "there"
+        ], 
+        [
+          "nsubj", 
+          "do", 
+          "we"
+        ], 
+        [
+          "conj_but", 
+          "know", 
+          "do"
+        ], 
+        [
+          "ccomp", 
+          "do", 
+          "know"
+        ], 
+        [
+          "dobj", 
+          "know", 
+          "they"
+        ], 
+        [
+          "nsubj", 
+          "had", 
+          "all"
+        ], 
+        [
+          "dep", 
+          "know", 
+          "had"
+        ], 
+        [
+          "det", 
+          "chance", 
+          "a"
+        ], 
+        [
+          "dobj", 
+          "had", 
+          "chance"
+        ], 
+        [
+          "aux", 
+          "read", 
+          "to"
+        ], 
+        [
+          "infmod", 
+          "chance", 
+          "read"
+        ], 
+        [
+          "advmod", 
+          "Saves", 
+          "Only"
+        ], 
+        [
+          "nsubj", 
+          "Saves", 
+          "Jesus"
+        ], 
+        [
+          "ccomp", 
+          "read", 
+          "Saves"
+        ]
+      ], 
+      "words": [
+        [
+          "We", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "560", 
+            "CharacterOffsetBegin": "558", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "we"
+          }
+        ], 
+        [
+          "do", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "563", 
+            "CharacterOffsetBegin": "561", 
+            "PartOfSpeech": "VBP", 
+            "Lemma": "do"
+          }
+        ], 
+        [
+          "n't", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "566", 
+            "CharacterOffsetBegin": "563", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "not"
+          }
+        ], 
+        [
+          "know", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "571", 
+            "CharacterOffsetBegin": "567", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "know"
+          }
+        ], 
+        [
+          "how", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "575", 
+            "CharacterOffsetBegin": "572", 
+            "PartOfSpeech": "WRB", 
+            "Lemma": "how"
+          }
+        ], 
+        [
+          "many", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "580", 
+            "CharacterOffsetBegin": "576", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "many"
+          }
+        ], 
+        [
+          "people", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "587", 
+            "CharacterOffsetBegin": "581", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "people"
+          }
+        ], 
+        [
+          "were", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "592", 
+            "CharacterOffsetBegin": "588", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "there", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "598", 
+            "CharacterOffsetBegin": "593", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "there"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "599", 
+            "CharacterOffsetBegin": "598", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "but", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "603", 
+            "CharacterOffsetBegin": "600", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "but"
+          }
+        ], 
+        [
+          "we", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "606", 
+            "CharacterOffsetBegin": "604", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "we"
+          }
+        ], 
+        [
+          "do", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "609", 
+            "CharacterOffsetBegin": "607", 
+            "PartOfSpeech": "VBP", 
+            "Lemma": "do"
+          }
+        ], 
+        [
+          "know", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "614", 
+            "CharacterOffsetBegin": "610", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "know"
+          }
+        ], 
+        [
+          "they", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "619", 
+            "CharacterOffsetBegin": "615", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "they"
+          }
+        ], 
+        [
+          "all", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "623", 
+            "CharacterOffsetBegin": "620", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "all"
+          }
+        ], 
+        [
+          "had", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "627", 
+            "CharacterOffsetBegin": "624", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "have"
+          }
+        ], 
+        [
+          "a", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "629", 
+            "CharacterOffsetBegin": "628", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "a"
+          }
+        ], 
+        [
+          "chance", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "636", 
+            "CharacterOffsetBegin": "630", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "chance"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "639", 
+            "CharacterOffsetBegin": "637", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "read", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "644", 
+            "CharacterOffsetBegin": "640", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "read"
+          }
+        ], 
+        [
+          "``", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "646", 
+            "CharacterOffsetBegin": "645", 
+            "PartOfSpeech": "``", 
+            "Lemma": "``"
+          }
+        ], 
+        [
+          "Only", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "650", 
+            "CharacterOffsetBegin": "646", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "only"
+          }
+        ], 
+        [
+          "Jesus", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "656", 
+            "CharacterOffsetBegin": "651", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Jesus"
+          }
+        ], 
+        [
+          "Saves", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "662", 
+            "CharacterOffsetBegin": "657", 
+            "PartOfSpeech": "VBZ", 
+            "Lemma": "save"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "663", 
+            "CharacterOffsetBegin": "662", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (S (NP (NNP Ye)) (VP (MD must) (VP (VB be) (VP (VBN born) (ADVP (RB again)))))) ('' '') (CC and) (S (`` ``) (NP (NNP Christ)) (VP (VBD suffered) (PP (IN for) (NP (NP (NNS sins)) (, ,) (NP (DT the) (RB just)))) (PP (IN for) (NP (DT the) (JJ unjust)))) ('' '')) (. .)))", 
+      "text": "Ye must be born again\" and \"Christ suffered for sins, the just for the unjust\".", 
+      "dependencies": [
+        [
+          "nsubjpass", 
+          "born", 
+          "Ye"
+        ], 
+        [
+          "aux", 
+          "born", 
+          "must"
+        ], 
+        [
+          "auxpass", 
+          "born", 
+          "be"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "born"
+        ], 
+        [
+          "advmod", 
+          "born", 
+          "again"
+        ], 
+        [
+          "nsubj", 
+          "suffered", 
+          "Christ"
+        ], 
+        [
+          "conj_and", 
+          "born", 
+          "suffered"
+        ], 
+        [
+          "prep_for", 
+          "suffered", 
+          "sins"
+        ], 
+        [
+          "det", 
+          "just", 
+          "the"
+        ], 
+        [
+          "appos", 
+          "sins", 
+          "just"
+        ], 
+        [
+          "det", 
+          "unjust", 
+          "the"
+        ], 
+        [
+          "prep_for", 
+          "suffered", 
+          "unjust"
+        ]
+      ], 
+      "words": [
+        [
+          "Ye", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "666", 
+            "CharacterOffsetBegin": "664", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Ye"
+          }
+        ], 
+        [
+          "must", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "671", 
+            "CharacterOffsetBegin": "667", 
+            "PartOfSpeech": "MD", 
+            "Lemma": "must"
+          }
+        ], 
+        [
+          "be", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "674", 
+            "CharacterOffsetBegin": "672", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "born", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "679", 
+            "CharacterOffsetBegin": "675", 
+            "PartOfSpeech": "VBN", 
+            "Lemma": "bear"
+          }
+        ], 
+        [
+          "again", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "685", 
+            "CharacterOffsetBegin": "680", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "again"
+          }
+        ], 
+        [
+          "''", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "686", 
+            "CharacterOffsetBegin": "685", 
+            "PartOfSpeech": "''", 
+            "Lemma": "''"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "690", 
+            "CharacterOffsetBegin": "687", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "``", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "692", 
+            "CharacterOffsetBegin": "691", 
+            "PartOfSpeech": "``", 
+            "Lemma": "``"
+          }
+        ], 
+        [
+          "Christ", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "698", 
+            "CharacterOffsetBegin": "692", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Christ"
+          }
+        ], 
+        [
+          "suffered", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "707", 
+            "CharacterOffsetBegin": "699", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "suffer"
+          }
+        ], 
+        [
+          "for", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "711", 
+            "CharacterOffsetBegin": "708", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "for"
+          }
+        ], 
+        [
+          "sins", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "716", 
+            "CharacterOffsetBegin": "712", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "sin"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "717", 
+            "CharacterOffsetBegin": "716", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "721", 
+            "CharacterOffsetBegin": "718", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "just", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "726", 
+            "CharacterOffsetBegin": "722", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "just"
+          }
+        ], 
+        [
+          "for", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "730", 
+            "CharacterOffsetBegin": "727", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "for"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "734", 
+            "CharacterOffsetBegin": "731", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "unjust", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "741", 
+            "CharacterOffsetBegin": "735", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "unjust"
+          }
+        ], 
+        [
+          "''", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "742", 
+            "CharacterOffsetBegin": "741", 
+            "PartOfSpeech": "''", 
+            "Lemma": "''"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "743", 
+            "CharacterOffsetBegin": "742", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (VP (VB Thank) (S (NP (PRP you)) (NP (NNP Lord)) (S (PP (PP (IN for) (S (VP (VBG giving) (NP (PRP us)) (NP (JJ such) (JJ great) (NN timing) (NN today))))) (, ,) (CC and) (PP (IN for) (S (VP (VBG having) (S (NP (DT the) (NN opportunity)) (VP (TO to) (VP (VB publish) (NP (DT the) (NN Word)) (PP (TO to) (NP (ADJP (RB so) (JJ many)) (NNS people))))))))))))) (. .)))", 
+      "text": "Thank you Lord for giving us such great timing today, and for having the opportunity to publish the Word to so many people.", 
+      "dependencies": [
+        [
+          "root", 
+          "ROOT", 
+          "Thank"
+        ], 
+        [
+          "nsubj", 
+          "for", 
+          "you"
+        ], 
+        [
+          "dep", 
+          "for", 
+          "Lord"
+        ], 
+        [
+          "xcomp", 
+          "Thank", 
+          "for"
+        ], 
+        [
+          "pcomp", 
+          "for", 
+          "giving"
+        ], 
+        [
+          "dobj", 
+          "giving", 
+          "us"
+        ], 
+        [
+          "amod", 
+          "today", 
+          "such"
+        ], 
+        [
+          "amod", 
+          "today", 
+          "great"
+        ], 
+        [
+          "nn", 
+          "today", 
+          "timing"
+        ], 
+        [
+          "tmod", 
+          "giving", 
+          "today"
+        ], 
+        [
+          "xcomp", 
+          "Thank", 
+          "for"
+        ], 
+        [
+          "conj_and", 
+          "for", 
+          "for"
+        ], 
+        [
+          "pcomp", 
+          "for", 
+          "having"
+        ], 
+        [
+          "det", 
+          "opportunity", 
+          "the"
+        ], 
+        [
+          "nsubj", 
+          "publish", 
+          "opportunity"
+        ], 
+        [
+          "aux", 
+          "publish", 
+          "to"
+        ], 
+        [
+          "ccomp", 
+          "having", 
+          "publish"
+        ], 
+        [
+          "xcomp", 
+          "having", 
+          "publish"
+        ], 
+        [
+          "det", 
+          "Word", 
+          "the"
+        ], 
+        [
+          "dobj", 
+          "publish", 
+          "Word"
+        ], 
+        [
+          "advmod", 
+          "many", 
+          "so"
+        ], 
+        [
+          "amod", 
+          "people", 
+          "many"
+        ], 
+        [
+          "prep_to", 
+          "publish", 
+          "people"
+        ]
+      ], 
+      "words": [
+        [
+          "Thank", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "749", 
+            "CharacterOffsetBegin": "744", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "thank"
+          }
+        ], 
+        [
+          "you", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "753", 
+            "CharacterOffsetBegin": "750", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "you"
+          }
+        ], 
+        [
+          "Lord", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "758", 
+            "CharacterOffsetBegin": "754", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Lord"
+          }
+        ], 
+        [
+          "for", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "762", 
+            "CharacterOffsetBegin": "759", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "for"
+          }
+        ], 
+        [
+          "giving", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "769", 
+            "CharacterOffsetBegin": "763", 
+            "PartOfSpeech": "VBG", 
+            "Lemma": "give"
+          }
+        ], 
+        [
+          "us", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "772", 
+            "CharacterOffsetBegin": "770", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "we"
+          }
+        ], 
+        [
+          "such", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "777", 
+            "CharacterOffsetBegin": "773", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "such"
+          }
+        ], 
+        [
+          "great", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "783", 
+            "CharacterOffsetBegin": "778", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "great"
+          }
+        ], 
+        [
+          "timing", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "790", 
+            "CharacterOffsetBegin": "784", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "timing"
+          }
+        ], 
+        [
+          "today", 
+          {
+            "NormalizedNamedEntityTag": "THIS", 
+            "Timex": "<TIMEX3 tid=\"t1\" alt_value=\"THIS P1D\" type=\"DATE\" temporalFunction=\"true\" valueFromFunction=\"tf0\" anchorTimeID=\"t0\">today</TIMEX3>", 
+            "Lemma": "today", 
+            "CharacterOffsetEnd": "796", 
+            "PartOfSpeech": "NN", 
+            "CharacterOffsetBegin": "791", 
+            "NamedEntityTag": "DATE"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "797", 
+            "CharacterOffsetBegin": "796", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "801", 
+            "CharacterOffsetBegin": "798", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "for", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "805", 
+            "CharacterOffsetBegin": "802", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "for"
+          }
+        ], 
+        [
+          "having", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "812", 
+            "CharacterOffsetBegin": "806", 
+            "PartOfSpeech": "VBG", 
+            "Lemma": "have"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "816", 
+            "CharacterOffsetBegin": "813", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "opportunity", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "828", 
+            "CharacterOffsetBegin": "817", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "opportunity"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "831", 
+            "CharacterOffsetBegin": "829", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "publish", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "839", 
+            "CharacterOffsetBegin": "832", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "publish"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "843", 
+            "CharacterOffsetBegin": "840", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "Word", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "848", 
+            "CharacterOffsetBegin": "844", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "word"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "851", 
+            "CharacterOffsetBegin": "849", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "so", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "854", 
+            "CharacterOffsetBegin": "852", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "so"
+          }
+        ], 
+        [
+          "many", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "859", 
+            "CharacterOffsetBegin": "855", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "many"
+          }
+        ], 
+        [
+          "people", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "866", 
+            "CharacterOffsetBegin": "860", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "people"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "867", 
+            "CharacterOffsetBegin": "866", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (INTJ (UH Amen) (. .)))", 
+      "text": "Amen.", 
+      "dependencies": [
+        [
+          "root", 
+          "ROOT", 
+          "Amen"
+        ]
+      ], 
+      "words": [
+        [
+          "Amen", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "872", 
+            "CharacterOffsetBegin": "868", 
+            "PartOfSpeech": "UH", 
+            "Lemma": "amen"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "873", 
+            "CharacterOffsetBegin": "872", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }
+  ]
+}

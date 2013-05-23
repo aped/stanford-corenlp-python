@@ -1,0 +1,5548 @@
+{
+  "coref": [
+    [
+      [
+        [
+          "the move", 
+          1, 
+          4, 
+          3, 
+          5
+        ], 
+        [
+          "the move , with the Riot Police waiting for the signal to follow", 
+          1, 
+          4, 
+          3, 
+          16
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "The riot Police", 
+          8, 
+          2, 
+          0, 
+          3
+        ], 
+        [
+          "the Riot Police waiting for the signal to follow", 
+          1, 
+          -1, 
+          7, 
+          16
+        ]
+      ], 
+      [
+        [
+          "the riot police", 
+          9, 
+          0, 
+          8, 
+          11
+        ], 
+        [
+          "the Riot Police waiting for the signal to follow", 
+          1, 
+          -1, 
+          7, 
+          16
+        ]
+      ], 
+      [
+        [
+          "the riot police", 
+          11, 
+          0, 
+          8, 
+          11
+        ], 
+        [
+          "the Riot Police waiting for the signal to follow", 
+          1, 
+          -1, 
+          7, 
+          16
+        ]
+      ], 
+      [
+        [
+          "the riot police", 
+          11, 
+          6, 
+          14, 
+          17
+        ], 
+        [
+          "the Riot Police waiting for the signal to follow", 
+          1, 
+          -1, 
+          7, 
+          16
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "I", 
+          2, 
+          6, 
+          6, 
+          7
+        ], 
+        [
+          "the `` demonstrations '' in Syntagma", 
+          4, 
+          8, 
+          6, 
+          12
+        ]
+      ], 
+      [
+        [
+          "my", 
+          3, 
+          0, 
+          10, 
+          11
+        ], 
+        [
+          "the `` demonstrations '' in Syntagma", 
+          4, 
+          8, 
+          6, 
+          12
+        ]
+      ], 
+      [
+        [
+          "I", 
+          4, 
+          1, 
+          1, 
+          2
+        ], 
+        [
+          "the `` demonstrations '' in Syntagma", 
+          4, 
+          8, 
+          6, 
+          12
+        ]
+      ], 
+      [
+        [
+          "my", 
+          4, 
+          4, 
+          14, 
+          15
+        ], 
+        [
+          "the `` demonstrations '' in Syntagma", 
+          4, 
+          8, 
+          6, 
+          12
+        ]
+      ], 
+      [
+        [
+          "my", 
+          12, 
+          2, 
+          12, 
+          13
+        ], 
+        [
+          "the `` demonstrations '' in Syntagma", 
+          4, 
+          8, 
+          6, 
+          12
+        ]
+      ], 
+      [
+        [
+          "I", 
+          16, 
+          6, 
+          6, 
+          7
+        ], 
+        [
+          "the `` demonstrations '' in Syntagma", 
+          4, 
+          8, 
+          6, 
+          12
+        ]
+      ], 
+      [
+        [
+          "I", 
+          18, 
+          0, 
+          0, 
+          1
+        ], 
+        [
+          "the `` demonstrations '' in Syntagma", 
+          4, 
+          8, 
+          6, 
+          12
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "Syntagma", 
+          10, 
+          3, 
+          3, 
+          4
+        ], 
+        [
+          "Syntagma", 
+          4, 
+          1, 
+          11, 
+          12
+        ]
+      ], 
+      [
+        [
+          "Syntagma", 
+          18, 
+          8, 
+          8, 
+          9
+        ], 
+        [
+          "Syntagma", 
+          4, 
+          1, 
+          11, 
+          12
+        ]
+      ], 
+      [
+        [
+          "It", 
+          19, 
+          0, 
+          0, 
+          1
+        ], 
+        [
+          "Syntagma", 
+          4, 
+          1, 
+          11, 
+          12
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "we", 
+          6, 
+          4, 
+          4, 
+          5
+        ], 
+        [
+          "We", 
+          5, 
+          0, 
+          0, 
+          1
+        ]
+      ], 
+      [
+        [
+          "we", 
+          6, 
+          7, 
+          17, 
+          18
+        ], 
+        [
+          "We", 
+          5, 
+          0, 
+          0, 
+          1
+        ]
+      ], 
+      [
+        [
+          "we", 
+          8, 
+          6, 
+          16, 
+          17
+        ], 
+        [
+          "We", 
+          5, 
+          0, 
+          0, 
+          1
+        ]
+      ], 
+      [
+        [
+          "We", 
+          10, 
+          0, 
+          0, 
+          1
+        ], 
+        [
+          "We", 
+          5, 
+          0, 
+          0, 
+          1
+        ]
+      ], 
+      [
+        [
+          "we", 
+          12, 
+          7, 
+          7, 
+          8
+        ], 
+        [
+          "We", 
+          5, 
+          0, 
+          0, 
+          1
+        ]
+      ], 
+      [
+        [
+          "we", 
+          13, 
+          1, 
+          1, 
+          2
+        ], 
+        [
+          "We", 
+          5, 
+          0, 
+          0, 
+          1
+        ]
+      ], 
+      [
+        [
+          "We", 
+          15, 
+          0, 
+          0, 
+          1
+        ], 
+        [
+          "We", 
+          5, 
+          0, 
+          0, 
+          1
+        ]
+      ], 
+      [
+        [
+          "we", 
+          18, 
+          4, 
+          4, 
+          5
+        ], 
+        [
+          "We", 
+          5, 
+          0, 
+          0, 
+          1
+        ]
+      ], 
+      [
+        [
+          "we", 
+          18, 
+          -1, 
+          9, 
+          10
+        ], 
+        [
+          "We", 
+          5, 
+          0, 
+          0, 
+          1
+        ]
+      ], 
+      [
+        [
+          "we", 
+          18, 
+          2, 
+          22, 
+          23
+        ], 
+        [
+          "We", 
+          5, 
+          0, 
+          0, 
+          1
+        ]
+      ], 
+      [
+        [
+          "us", 
+          18, 
+          0, 
+          30, 
+          31
+        ], 
+        [
+          "We", 
+          5, 
+          0, 
+          0, 
+          1
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "their", 
+          6, 
+          4, 
+          14, 
+          15
+        ], 
+        [
+          "people", 
+          6, 
+          8, 
+          8, 
+          9
+        ]
+      ], 
+      [
+        [
+          "people", 
+          7, 
+          1, 
+          1, 
+          2
+        ], 
+        [
+          "people", 
+          6, 
+          8, 
+          8, 
+          9
+        ]
+      ], 
+      [
+        [
+          "people", 
+          8, 
+          8, 
+          8, 
+          9
+        ], 
+        [
+          "people", 
+          6, 
+          8, 
+          8, 
+          9
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "Parliment", 
+          7, 
+          3, 
+          13, 
+          14
+        ], 
+        [
+          "the Parliment", 
+          6, 
+          6, 
+          35, 
+          37
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "it", 
+          7, 
+          1, 
+          11, 
+          12
+        ], 
+        [
+          "hacking away at the marble", 
+          7, 
+          4, 
+          4, 
+          9
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "They they threw the gas , and we were too close and my eyes", 
+          12, 
+          0, 
+          0, 
+          14
+        ], 
+        [
+          "the Anarchists", 
+          11, 
+          5, 
+          4, 
+          6
+        ]
+      ], 
+      [
+        [
+          "They they threw the gas , and we were too close", 
+          12, 
+          0, 
+          0, 
+          11
+        ], 
+        [
+          "the Anarchists", 
+          11, 
+          5, 
+          4, 
+          6
+        ]
+      ], 
+      [
+        [
+          "they", 
+          12, 
+          1, 
+          1, 
+          2
+        ], 
+        [
+          "the Anarchists", 
+          11, 
+          5, 
+          4, 
+          6
+        ]
+      ], 
+      [
+        [
+          "They", 
+          13, 
+          0, 
+          0, 
+          1
+        ], 
+        [
+          "the Anarchists", 
+          11, 
+          5, 
+          4, 
+          6
+        ]
+      ], 
+      [
+        [
+          "they", 
+          13, 
+          1, 
+          11, 
+          12
+        ], 
+        [
+          "the Anarchists", 
+          11, 
+          5, 
+          4, 
+          6
+        ]
+      ], 
+      [
+        [
+          "them", 
+          15, 
+          -1, 
+          9, 
+          10
+        ], 
+        [
+          "the Anarchists", 
+          11, 
+          5, 
+          4, 
+          6
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "it", 
+          12, 
+          7, 
+          17, 
+          18
+        ], 
+        [
+          "the gas", 
+          12, 
+          4, 
+          3, 
+          5
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "It", 
+          14, 
+          0, 
+          0, 
+          1
+        ], 
+        [
+          "Omonia Sq", 
+          13, 
+          5, 
+          4, 
+          6
+        ]
+      ], 
+      [
+        [
+          "CRAZY", 
+          14, 
+          2, 
+          2, 
+          3
+        ], 
+        [
+          "Omonia Sq", 
+          13, 
+          5, 
+          4, 
+          6
+        ]
+      ], 
+      [
+        [
+          "It", 
+          17, 
+          0, 
+          0, 
+          1
+        ], 
+        [
+          "Omonia Sq", 
+          13, 
+          5, 
+          4, 
+          6
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "Mc D 's", 
+          18, 
+          5, 
+          14, 
+          17
+        ], 
+        [
+          "the Mc D 's", 
+          18, 
+          5, 
+          13, 
+          17
+        ]
+      ]
+    ]
+  ], 
+  "sentences": [
+    {
+      "parsetree": "(ROOT (NP (NP (NN Riot) (NNS Police)) (VP (VBG chasing) (NP (DT the) (NN mob))) (. .)))", 
+      "text": "Riot Police chasing the mob.", 
+      "dependencies": [
+        [
+          "nn", 
+          "Police", 
+          "Riot"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "Police"
+        ], 
+        [
+          "partmod", 
+          "Police", 
+          "chasing"
+        ], 
+        [
+          "det", 
+          "mob", 
+          "the"
+        ], 
+        [
+          "dobj", 
+          "chasing", 
+          "mob"
+        ]
+      ], 
+      "words": [
+        [
+          "Riot", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "7", 
+            "CharacterOffsetBegin": "3", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "riot"
+          }
+        ], 
+        [
+          "Police", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "14", 
+            "CharacterOffsetBegin": "8", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "police"
+          }
+        ], 
+        [
+          "chasing", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "22", 
+            "CharacterOffsetBegin": "15", 
+            "PartOfSpeech": "VBG", 
+            "Lemma": "chase"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "26", 
+            "CharacterOffsetBegin": "23", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "mob", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "30", 
+            "CharacterOffsetBegin": "27", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "mob"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "31", 
+            "CharacterOffsetBegin": "30", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (NP (NP (DT The) (NN mob)) (PP (IN on) (NP (NP (DT the) (NN move)) (, ,) (PP (IN with) (NP (NP (DT the) (NNP Riot) (NNP Police)) (VP (VBG waiting) (PP (IN for) (NP (DT the) (NN signal))) (S (VP (TO to) (VP (VB follow))))))))) (. .)))", 
+      "text": "The mob on the move, with the Riot Police waiting for the signal to follow.", 
+      "dependencies": [
+        [
+          "det", 
+          "mob", 
+          "The"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "mob"
+        ], 
+        [
+          "det", 
+          "move", 
+          "the"
+        ], 
+        [
+          "prep_on", 
+          "mob", 
+          "move"
+        ], 
+        [
+          "det", 
+          "Police", 
+          "the"
+        ], 
+        [
+          "nn", 
+          "Police", 
+          "Riot"
+        ], 
+        [
+          "prep_with", 
+          "move", 
+          "Police"
+        ], 
+        [
+          "xsubj", 
+          "follow", 
+          "Police"
+        ], 
+        [
+          "partmod", 
+          "Police", 
+          "waiting"
+        ], 
+        [
+          "det", 
+          "signal", 
+          "the"
+        ], 
+        [
+          "prep_for", 
+          "waiting", 
+          "signal"
+        ], 
+        [
+          "aux", 
+          "follow", 
+          "to"
+        ], 
+        [
+          "xcomp", 
+          "waiting", 
+          "follow"
+        ]
+      ], 
+      "words": [
+        [
+          "The", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "36", 
+            "CharacterOffsetBegin": "33", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "mob", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "40", 
+            "CharacterOffsetBegin": "37", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "mob"
+          }
+        ], 
+        [
+          "on", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "43", 
+            "CharacterOffsetBegin": "41", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "on"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "47", 
+            "CharacterOffsetBegin": "44", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "move", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "52", 
+            "CharacterOffsetBegin": "48", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "move"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "53", 
+            "CharacterOffsetBegin": "52", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "with", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "58", 
+            "CharacterOffsetBegin": "54", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "with"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "62", 
+            "CharacterOffsetBegin": "59", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "Riot", 
+          {
+            "NamedEntityTag": "ORGANIZATION", 
+            "CharacterOffsetEnd": "67", 
+            "CharacterOffsetBegin": "63", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Riot"
+          }
+        ], 
+        [
+          "Police", 
+          {
+            "NamedEntityTag": "ORGANIZATION", 
+            "CharacterOffsetEnd": "74", 
+            "CharacterOffsetBegin": "68", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Police"
+          }
+        ], 
+        [
+          "waiting", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "82", 
+            "CharacterOffsetBegin": "75", 
+            "PartOfSpeech": "VBG", 
+            "Lemma": "wait"
+          }
+        ], 
+        [
+          "for", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "86", 
+            "CharacterOffsetBegin": "83", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "for"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "90", 
+            "CharacterOffsetBegin": "87", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "signal", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "97", 
+            "CharacterOffsetBegin": "91", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "signal"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "100", 
+            "CharacterOffsetBegin": "98", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "follow", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "107", 
+            "CharacterOffsetBegin": "101", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "follow"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "108", 
+            "CharacterOffsetBegin": "107", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (NP (NP (DT The) (NN dumper)) (PP (IN on) (NP (NN fire)))) (, ,) (ADVP (CC but)) (NP (PRP I)) (VP (VBP mean) (SBAR (S (NP (NP (DT every) (NN trash) (NN bin)) (, ,) (NP (NP (NNP BIG)) (CC and) (NP (JJ small))) (, ,)) (VP (VBD was) (PP (IN on) (NP (NN fire))))))) (. .)))", 
+      "text": "The dumper on fire, but I mean every trash bin, BIG and small, was on fire.", 
+      "dependencies": [
+        [
+          "det", 
+          "dumper", 
+          "The"
+        ], 
+        [
+          "nsubj", 
+          "mean", 
+          "dumper"
+        ], 
+        [
+          "prep_on", 
+          "dumper", 
+          "fire"
+        ], 
+        [
+          "advmod", 
+          "mean", 
+          "but"
+        ], 
+        [
+          "nsubj", 
+          "mean", 
+          "I"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "mean"
+        ], 
+        [
+          "det", 
+          "bin", 
+          "every"
+        ], 
+        [
+          "nn", 
+          "bin", 
+          "trash"
+        ], 
+        [
+          "nsubj", 
+          "was", 
+          "bin"
+        ], 
+        [
+          "appos", 
+          "bin", 
+          "BIG"
+        ], 
+        [
+          "appos", 
+          "bin", 
+          "small"
+        ], 
+        [
+          "conj_and", 
+          "BIG", 
+          "small"
+        ], 
+        [
+          "ccomp", 
+          "mean", 
+          "was"
+        ], 
+        [
+          "prep_on", 
+          "was", 
+          "fire"
+        ]
+      ], 
+      "words": [
+        [
+          "The", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "113", 
+            "CharacterOffsetBegin": "110", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "dumper", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "120", 
+            "CharacterOffsetBegin": "114", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "dumper"
+          }
+        ], 
+        [
+          "on", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "123", 
+            "CharacterOffsetBegin": "121", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "on"
+          }
+        ], 
+        [
+          "fire", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "128", 
+            "CharacterOffsetBegin": "124", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "fire"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "129", 
+            "CharacterOffsetBegin": "128", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "but", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "133", 
+            "CharacterOffsetBegin": "130", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "but"
+          }
+        ], 
+        [
+          "I", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "135", 
+            "CharacterOffsetBegin": "134", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "I"
+          }
+        ], 
+        [
+          "mean", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "140", 
+            "CharacterOffsetBegin": "136", 
+            "PartOfSpeech": "VBP", 
+            "Lemma": "mean"
+          }
+        ], 
+        [
+          "every", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "146", 
+            "CharacterOffsetBegin": "141", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "every"
+          }
+        ], 
+        [
+          "trash", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "152", 
+            "CharacterOffsetBegin": "147", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "trash"
+          }
+        ], 
+        [
+          "bin", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "156", 
+            "CharacterOffsetBegin": "153", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "bin"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "157", 
+            "CharacterOffsetBegin": "156", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "BIG", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "161", 
+            "CharacterOffsetBegin": "158", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "BIG"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "165", 
+            "CharacterOffsetBegin": "162", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "small", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "171", 
+            "CharacterOffsetBegin": "166", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "small"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "172", 
+            "CharacterOffsetBegin": "171", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "was", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "176", 
+            "CharacterOffsetBegin": "173", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "on", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "179", 
+            "CharacterOffsetBegin": "177", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "on"
+          }
+        ], 
+        [
+          "fire", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "184", 
+            "CharacterOffsetBegin": "180", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "fire"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "185", 
+            "CharacterOffsetBegin": "184", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (RB So) (NP-TMP (NN today)) (, ,) (NP (JJ public) (NN transportation)) (VP (VBD was) (ADVP (RB completely) (RB down)) (, ,) (SBAR (IN so) (S (NP (PRP$ my) (NNP Friday)) (VP (VBZ plans) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (NP (DT the) (NN beach)) (SBAR (S (VP (VBD were) (VP (VBN ruined)))))))))))))) (. .)))", 
+      "text": "So today, public transportation was completely down, so my Friday plans to go to the beach were ruined.", 
+      "dependencies": [
+        [
+          "advmod", 
+          "was", 
+          "So"
+        ], 
+        [
+          "tmod", 
+          "was", 
+          "today"
+        ], 
+        [
+          "amod", 
+          "transportation", 
+          "public"
+        ], 
+        [
+          "nsubj", 
+          "was", 
+          "transportation"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "was"
+        ], 
+        [
+          "advmod", 
+          "down", 
+          "completely"
+        ], 
+        [
+          "advmod", 
+          "was", 
+          "down"
+        ], 
+        [
+          "mark", 
+          "plans", 
+          "so"
+        ], 
+        [
+          "poss", 
+          "Friday", 
+          "my"
+        ], 
+        [
+          "nsubj", 
+          "plans", 
+          "Friday"
+        ], 
+        [
+          "xsubj", 
+          "go", 
+          "Friday"
+        ], 
+        [
+          "advcl", 
+          "was", 
+          "plans"
+        ], 
+        [
+          "aux", 
+          "go", 
+          "to"
+        ], 
+        [
+          "xcomp", 
+          "plans", 
+          "go"
+        ], 
+        [
+          "det", 
+          "beach", 
+          "the"
+        ], 
+        [
+          "prep_to", 
+          "go", 
+          "beach"
+        ], 
+        [
+          "auxpass", 
+          "ruined", 
+          "were"
+        ], 
+        [
+          "rcmod", 
+          "beach", 
+          "ruined"
+        ]
+      ], 
+      "words": [
+        [
+          "So", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "187", 
+            "CharacterOffsetBegin": "185", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "so"
+          }
+        ], 
+        [
+          "today", 
+          {
+            "NormalizedNamedEntityTag": "THIS", 
+            "Timex": "<TIMEX3 tid=\"t1\" alt_value=\"THIS P1D\" type=\"DATE\" temporalFunction=\"true\" valueFromFunction=\"tf0\" anchorTimeID=\"t0\">today</TIMEX3>", 
+            "Lemma": "today", 
+            "CharacterOffsetEnd": "193", 
+            "PartOfSpeech": "NN", 
+            "CharacterOffsetBegin": "188", 
+            "NamedEntityTag": "DATE"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "194", 
+            "CharacterOffsetBegin": "193", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "public", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "201", 
+            "CharacterOffsetBegin": "195", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "public"
+          }
+        ], 
+        [
+          "transportation", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "216", 
+            "CharacterOffsetBegin": "202", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "transportation"
+          }
+        ], 
+        [
+          "was", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "220", 
+            "CharacterOffsetBegin": "217", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "completely", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "231", 
+            "CharacterOffsetBegin": "221", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "completely"
+          }
+        ], 
+        [
+          "down", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "236", 
+            "CharacterOffsetBegin": "232", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "down"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "237", 
+            "CharacterOffsetBegin": "236", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "so", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "240", 
+            "CharacterOffsetBegin": "238", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "so"
+          }
+        ], 
+        [
+          "my", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "243", 
+            "CharacterOffsetBegin": "241", 
+            "PartOfSpeech": "PRP$", 
+            "Lemma": "my"
+          }
+        ], 
+        [
+          "Friday", 
+          {
+            "NormalizedNamedEntityTag": "XXXX-WXX-5", 
+            "Timex": "<TIMEX3 tid=\"t2\" value=\"XXXX-WXX-5\" type=\"DATE\">Friday</TIMEX3>", 
+            "Lemma": "Friday", 
+            "CharacterOffsetEnd": "250", 
+            "PartOfSpeech": "NNP", 
+            "CharacterOffsetBegin": "244", 
+            "NamedEntityTag": "DATE"
+          }
+        ], 
+        [
+          "plans", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "256", 
+            "CharacterOffsetBegin": "251", 
+            "PartOfSpeech": "VBZ", 
+            "Lemma": "plan"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "259", 
+            "CharacterOffsetBegin": "257", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "go", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "262", 
+            "CharacterOffsetBegin": "260", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "go"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "265", 
+            "CharacterOffsetBegin": "263", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "269", 
+            "CharacterOffsetBegin": "266", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "beach", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "275", 
+            "CharacterOffsetBegin": "270", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "beach"
+          }
+        ], 
+        [
+          "were", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "280", 
+            "CharacterOffsetBegin": "276", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "ruined", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "287", 
+            "CharacterOffsetBegin": "281", 
+            "PartOfSpeech": "VBN", 
+            "Lemma": "ruin"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "288", 
+            "CharacterOffsetBegin": "287", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (IN So) (NP (PRP I)) (VP (VBD decided) (S (VP (TO to) (VP (VB go) (VB watch) (NP (NP (DT the) (`` ``) (NNS demonstrations) ('' '')) (PP (IN in) (NP (NNP Syntagma)))) (, ,) (PP (IN with) (NP (NP (PRP$ my) (NN friend)) (NP (NNP Paul)))))))) (. .)))", 
+      "text": "So I decided to go watch the \"demonstrations\" in Syntagma, with my friend Paul.", 
+      "dependencies": [
+        [
+          "dep", 
+          "decided", 
+          "So"
+        ], 
+        [
+          "nsubj", 
+          "decided", 
+          "I"
+        ], 
+        [
+          "xsubj", 
+          "go", 
+          "I"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "decided"
+        ], 
+        [
+          "aux", 
+          "go", 
+          "to"
+        ], 
+        [
+          "xcomp", 
+          "decided", 
+          "go"
+        ], 
+        [
+          "dep", 
+          "go", 
+          "watch"
+        ], 
+        [
+          "det", 
+          "demonstrations", 
+          "the"
+        ], 
+        [
+          "dobj", 
+          "go", 
+          "demonstrations"
+        ], 
+        [
+          "prep_in", 
+          "demonstrations", 
+          "Syntagma"
+        ], 
+        [
+          "poss", 
+          "friend", 
+          "my"
+        ], 
+        [
+          "prep_with", 
+          "go", 
+          "friend"
+        ], 
+        [
+          "dep", 
+          "friend", 
+          "Paul"
+        ]
+      ], 
+      "words": [
+        [
+          "So", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "291", 
+            "CharacterOffsetBegin": "289", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "so"
+          }
+        ], 
+        [
+          "I", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "293", 
+            "CharacterOffsetBegin": "292", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "I"
+          }
+        ], 
+        [
+          "decided", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "301", 
+            "CharacterOffsetBegin": "294", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "decide"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "304", 
+            "CharacterOffsetBegin": "302", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "go", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "307", 
+            "CharacterOffsetBegin": "305", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "go"
+          }
+        ], 
+        [
+          "watch", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "313", 
+            "CharacterOffsetBegin": "308", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "watch"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "317", 
+            "CharacterOffsetBegin": "314", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "``", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "319", 
+            "CharacterOffsetBegin": "318", 
+            "PartOfSpeech": "``", 
+            "Lemma": "``"
+          }
+        ], 
+        [
+          "demonstrations", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "333", 
+            "CharacterOffsetBegin": "319", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "demonstration"
+          }
+        ], 
+        [
+          "''", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "334", 
+            "CharacterOffsetBegin": "333", 
+            "PartOfSpeech": "''", 
+            "Lemma": "''"
+          }
+        ], 
+        [
+          "in", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "337", 
+            "CharacterOffsetBegin": "335", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "in"
+          }
+        ], 
+        [
+          "Syntagma", 
+          {
+            "NamedEntityTag": "LOCATION", 
+            "CharacterOffsetEnd": "346", 
+            "CharacterOffsetBegin": "338", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Syntagma"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "347", 
+            "CharacterOffsetBegin": "346", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "with", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "352", 
+            "CharacterOffsetBegin": "348", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "with"
+          }
+        ], 
+        [
+          "my", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "355", 
+            "CharacterOffsetBegin": "353", 
+            "PartOfSpeech": "PRP$", 
+            "Lemma": "my"
+          }
+        ], 
+        [
+          "friend", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "362", 
+            "CharacterOffsetBegin": "356", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "friend"
+          }
+        ], 
+        [
+          "Paul", 
+          {
+            "NamedEntityTag": "PERSON", 
+            "CharacterOffsetEnd": "367", 
+            "CharacterOffsetBegin": "363", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Paul"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "368", 
+            "CharacterOffsetBegin": "367", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (NP (PRP We)) (VP (VP (VBP get) (ADVP (RB there))) (CC and) (VP (VP (VB walk)) (IN around) (VP (VB take)) (PP (IN in) (NP (DT the) (NN scene))))) (. .)))", 
+      "text": "We get there and walk around take in the scene.", 
+      "dependencies": [
+        [
+          "nsubj", 
+          "get", 
+          "We"
+        ], 
+        [
+          "nsubj", 
+          "walk", 
+          "We"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "get"
+        ], 
+        [
+          "advmod", 
+          "get", 
+          "there"
+        ], 
+        [
+          "conj_and", 
+          "get", 
+          "walk"
+        ], 
+        [
+          "dep", 
+          "walk", 
+          "around"
+        ], 
+        [
+          "dep", 
+          "walk", 
+          "take"
+        ], 
+        [
+          "det", 
+          "scene", 
+          "the"
+        ], 
+        [
+          "prep_in", 
+          "walk", 
+          "scene"
+        ]
+      ], 
+      "words": [
+        [
+          "We", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "371", 
+            "CharacterOffsetBegin": "369", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "we"
+          }
+        ], 
+        [
+          "get", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "375", 
+            "CharacterOffsetBegin": "372", 
+            "PartOfSpeech": "VBP", 
+            "Lemma": "get"
+          }
+        ], 
+        [
+          "there", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "381", 
+            "CharacterOffsetBegin": "376", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "there"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "385", 
+            "CharacterOffsetBegin": "382", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "walk", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "390", 
+            "CharacterOffsetBegin": "386", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "walk"
+          }
+        ], 
+        [
+          "around", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "397", 
+            "CharacterOffsetBegin": "391", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "around"
+          }
+        ], 
+        [
+          "take", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "402", 
+            "CharacterOffsetBegin": "398", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "take"
+          }
+        ], 
+        [
+          "in", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "405", 
+            "CharacterOffsetBegin": "403", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "in"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "409", 
+            "CharacterOffsetBegin": "406", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "scene", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "415", 
+            "CharacterOffsetBegin": "410", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "scene"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "416", 
+            "CharacterOffsetBegin": "415", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (S (NP-TMP (NP (DT All)) (PP (IN of) (NP (DT a) (JJ sudden)))) (NP (PRP we)) (VP (VBP start) (S (VP (TO to) (VP (VB see) (NP (NNS people)) (S (VP (VP (VBG puting) (PP (IN on) (NP (NNS masks)))) (CC and) (VP (VBG covering) (NP (PRP$ their) (NNS faces)) (SBAR (IN so) (S (NP (PRP we)) (VP (VBD backed) (PRT (RP off)) (NP (DT a) (JJ little) (NN bit))))))))))))) (, ,) (CC and) (S (ADVP (RB then)) (NP (NNS things)) (VP (VBD started) (S (VP (VBG blowing) (PRT (RP up)) (PP (IN in) (NP (NP (DT the) (NN street) (NN right)) (PP (IN outside) (NP (DT the) (NNP Parliment))))))))) (. .)))", 
+      "text": "All of a sudden we start to see people puting on masks and covering their faces so we backed off a little bit, and then things started blowing up in the street right outside the Parliment.", 
+      "dependencies": [
+        [
+          "tmod", 
+          "start", 
+          "All"
+        ], 
+        [
+          "det", 
+          "sudden", 
+          "a"
+        ], 
+        [
+          "prep_of", 
+          "All", 
+          "sudden"
+        ], 
+        [
+          "nsubj", 
+          "start", 
+          "we"
+        ], 
+        [
+          "xsubj", 
+          "see", 
+          "we"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "start"
+        ], 
+        [
+          "aux", 
+          "see", 
+          "to"
+        ], 
+        [
+          "xcomp", 
+          "start", 
+          "see"
+        ], 
+        [
+          "dobj", 
+          "see", 
+          "people"
+        ], 
+        [
+          "dep", 
+          "see", 
+          "puting"
+        ], 
+        [
+          "prep_on", 
+          "puting", 
+          "masks"
+        ], 
+        [
+          "dep", 
+          "see", 
+          "covering"
+        ], 
+        [
+          "conj_and", 
+          "puting", 
+          "covering"
+        ], 
+        [
+          "poss", 
+          "faces", 
+          "their"
+        ], 
+        [
+          "dobj", 
+          "covering", 
+          "faces"
+        ], 
+        [
+          "mark", 
+          "backed", 
+          "so"
+        ], 
+        [
+          "nsubj", 
+          "backed", 
+          "we"
+        ], 
+        [
+          "advcl", 
+          "covering", 
+          "backed"
+        ], 
+        [
+          "prt", 
+          "backed", 
+          "off"
+        ], 
+        [
+          "det", 
+          "bit", 
+          "a"
+        ], 
+        [
+          "amod", 
+          "bit", 
+          "little"
+        ], 
+        [
+          "dobj", 
+          "backed", 
+          "bit"
+        ], 
+        [
+          "advmod", 
+          "started", 
+          "then"
+        ], 
+        [
+          "nsubj", 
+          "started", 
+          "things"
+        ], 
+        [
+          "conj_and", 
+          "start", 
+          "started"
+        ], 
+        [
+          "xcomp", 
+          "started", 
+          "blowing"
+        ], 
+        [
+          "prt", 
+          "blowing", 
+          "up"
+        ], 
+        [
+          "det", 
+          "right", 
+          "the"
+        ], 
+        [
+          "nn", 
+          "right", 
+          "street"
+        ], 
+        [
+          "prep_in", 
+          "blowing", 
+          "right"
+        ], 
+        [
+          "det", 
+          "Parliment", 
+          "the"
+        ], 
+        [
+          "prep_outside", 
+          "right", 
+          "Parliment"
+        ]
+      ], 
+      "words": [
+        [
+          "All", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "420", 
+            "CharacterOffsetBegin": "417", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "all"
+          }
+        ], 
+        [
+          "of", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "423", 
+            "CharacterOffsetBegin": "421", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "of"
+          }
+        ], 
+        [
+          "a", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "425", 
+            "CharacterOffsetBegin": "424", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "a"
+          }
+        ], 
+        [
+          "sudden", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "432", 
+            "CharacterOffsetBegin": "426", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "sudden"
+          }
+        ], 
+        [
+          "we", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "435", 
+            "CharacterOffsetBegin": "433", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "we"
+          }
+        ], 
+        [
+          "start", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "441", 
+            "CharacterOffsetBegin": "436", 
+            "PartOfSpeech": "VBP", 
+            "Lemma": "start"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "444", 
+            "CharacterOffsetBegin": "442", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "see", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "448", 
+            "CharacterOffsetBegin": "445", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "see"
+          }
+        ], 
+        [
+          "people", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "455", 
+            "CharacterOffsetBegin": "449", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "people"
+          }
+        ], 
+        [
+          "puting", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "462", 
+            "CharacterOffsetBegin": "456", 
+            "PartOfSpeech": "VBG", 
+            "Lemma": "pute"
+          }
+        ], 
+        [
+          "on", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "465", 
+            "CharacterOffsetBegin": "463", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "on"
+          }
+        ], 
+        [
+          "masks", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "471", 
+            "CharacterOffsetBegin": "466", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "mask"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "475", 
+            "CharacterOffsetBegin": "472", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "covering", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "484", 
+            "CharacterOffsetBegin": "476", 
+            "PartOfSpeech": "VBG", 
+            "Lemma": "cover"
+          }
+        ], 
+        [
+          "their", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "490", 
+            "CharacterOffsetBegin": "485", 
+            "PartOfSpeech": "PRP$", 
+            "Lemma": "they"
+          }
+        ], 
+        [
+          "faces", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "496", 
+            "CharacterOffsetBegin": "491", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "face"
+          }
+        ], 
+        [
+          "so", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "499", 
+            "CharacterOffsetBegin": "497", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "so"
+          }
+        ], 
+        [
+          "we", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "502", 
+            "CharacterOffsetBegin": "500", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "we"
+          }
+        ], 
+        [
+          "backed", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "509", 
+            "CharacterOffsetBegin": "503", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "back"
+          }
+        ], 
+        [
+          "off", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "513", 
+            "CharacterOffsetBegin": "510", 
+            "PartOfSpeech": "RP", 
+            "Lemma": "off"
+          }
+        ], 
+        [
+          "a", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "515", 
+            "CharacterOffsetBegin": "514", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "a"
+          }
+        ], 
+        [
+          "little", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "522", 
+            "CharacterOffsetBegin": "516", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "little"
+          }
+        ], 
+        [
+          "bit", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "526", 
+            "CharacterOffsetBegin": "523", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "bit"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "527", 
+            "CharacterOffsetBegin": "526", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "531", 
+            "CharacterOffsetBegin": "528", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "then", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "536", 
+            "CharacterOffsetBegin": "532", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "then"
+          }
+        ], 
+        [
+          "things", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "543", 
+            "CharacterOffsetBegin": "537", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "thing"
+          }
+        ], 
+        [
+          "started", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "551", 
+            "CharacterOffsetBegin": "544", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "start"
+          }
+        ], 
+        [
+          "blowing", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "559", 
+            "CharacterOffsetBegin": "552", 
+            "PartOfSpeech": "VBG", 
+            "Lemma": "blow"
+          }
+        ], 
+        [
+          "up", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "562", 
+            "CharacterOffsetBegin": "560", 
+            "PartOfSpeech": "RP", 
+            "Lemma": "up"
+          }
+        ], 
+        [
+          "in", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "565", 
+            "CharacterOffsetBegin": "563", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "in"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "569", 
+            "CharacterOffsetBegin": "566", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "street", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "576", 
+            "CharacterOffsetBegin": "570", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "street"
+          }
+        ], 
+        [
+          "right", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "582", 
+            "CharacterOffsetBegin": "577", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "right"
+          }
+        ], 
+        [
+          "outside", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "590", 
+            "CharacterOffsetBegin": "583", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "outside"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "594", 
+            "CharacterOffsetBegin": "591", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "Parliment", 
+          {
+            "NamedEntityTag": "ORGANIZATION", 
+            "CharacterOffsetEnd": "604", 
+            "CharacterOffsetBegin": "595", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Parliment"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "605", 
+            "CharacterOffsetBegin": "604", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (CC And) (NP (NNS people)) (VP (VBP are) (UCP (PP (IN like) (NP (NP (NN hacking)) (ADVP (RB away) (PP (IN at) (NP (DT the) (NN marble)))))) (CC and) (S (VP (VBG throwing) (NP (PRP it)) (PP (IN at) (NP (NNP Parliment))))))) (. .)))", 
+      "text": "And people are like hacking away at the marble and throwing it at Parliment.", 
+      "dependencies": [
+        [
+          "cc", 
+          "are", 
+          "And"
+        ], 
+        [
+          "nsubj", 
+          "are", 
+          "people"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "are"
+        ], 
+        [
+          "dep", 
+          "are", 
+          "like"
+        ], 
+        [
+          "pobj", 
+          "like", 
+          "hacking"
+        ], 
+        [
+          "advmod", 
+          "hacking", 
+          "away"
+        ], 
+        [
+          "det", 
+          "marble", 
+          "the"
+        ], 
+        [
+          "prep_at", 
+          "away", 
+          "marble"
+        ], 
+        [
+          "dep", 
+          "are", 
+          "throwing"
+        ], 
+        [
+          "conj_and", 
+          "like", 
+          "throwing"
+        ], 
+        [
+          "dobj", 
+          "throwing", 
+          "it"
+        ], 
+        [
+          "prep_at", 
+          "throwing", 
+          "Parliment"
+        ]
+      ], 
+      "words": [
+        [
+          "And", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "609", 
+            "CharacterOffsetBegin": "606", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "people", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "616", 
+            "CharacterOffsetBegin": "610", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "people"
+          }
+        ], 
+        [
+          "are", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "620", 
+            "CharacterOffsetBegin": "617", 
+            "PartOfSpeech": "VBP", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "like", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "625", 
+            "CharacterOffsetBegin": "621", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "like"
+          }
+        ], 
+        [
+          "hacking", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "633", 
+            "CharacterOffsetBegin": "626", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "hacking"
+          }
+        ], 
+        [
+          "away", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "638", 
+            "CharacterOffsetBegin": "634", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "away"
+          }
+        ], 
+        [
+          "at", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "641", 
+            "CharacterOffsetBegin": "639", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "at"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "645", 
+            "CharacterOffsetBegin": "642", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "marble", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "652", 
+            "CharacterOffsetBegin": "646", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "marble"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "656", 
+            "CharacterOffsetBegin": "653", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "throwing", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "665", 
+            "CharacterOffsetBegin": "657", 
+            "PartOfSpeech": "VBG", 
+            "Lemma": "throw"
+          }
+        ], 
+        [
+          "it", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "668", 
+            "CharacterOffsetBegin": "666", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "it"
+          }
+        ], 
+        [
+          "at", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "671", 
+            "CharacterOffsetBegin": "669", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "at"
+          }
+        ], 
+        [
+          "Parliment", 
+          {
+            "NamedEntityTag": "ORGANIZATION", 
+            "CharacterOffsetEnd": "681", 
+            "CharacterOffsetBegin": "672", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Parliment"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "682", 
+            "CharacterOffsetBegin": "681", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (S (S (NP (DT The) (NN riot) (NN Police)) (VP (VB start) (S (VP (TO to) (VP (VB move) (PP (IN in))))))) (CC and) (S (NP (NNS people)) (VP (VBP are) (VP (VBG running) (ADVP (RB away)) (PP (IN with) (NP (NNS tears))))))) (, ,) (IN so) (S (NP (PRP we)) (VP (VBD moved) (ADVP (RB back)))) (. .)))", 
+      "text": "The riot Police start to move in and people are running away with tears, so we moved back.", 
+      "dependencies": [
+        [
+          "det", 
+          "Police", 
+          "The"
+        ], 
+        [
+          "nn", 
+          "Police", 
+          "riot"
+        ], 
+        [
+          "nsubj", 
+          "start", 
+          "Police"
+        ], 
+        [
+          "xsubj", 
+          "move", 
+          "Police"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "start"
+        ], 
+        [
+          "aux", 
+          "move", 
+          "to"
+        ], 
+        [
+          "xcomp", 
+          "start", 
+          "move"
+        ], 
+        [
+          "prep", 
+          "move", 
+          "in"
+        ], 
+        [
+          "nsubj", 
+          "running", 
+          "people"
+        ], 
+        [
+          "aux", 
+          "running", 
+          "are"
+        ], 
+        [
+          "conj_and", 
+          "start", 
+          "running"
+        ], 
+        [
+          "advmod", 
+          "running", 
+          "away"
+        ], 
+        [
+          "prep_with", 
+          "running", 
+          "tears"
+        ], 
+        [
+          "dep", 
+          "start", 
+          "so"
+        ], 
+        [
+          "nsubj", 
+          "moved", 
+          "we"
+        ], 
+        [
+          "ccomp", 
+          "start", 
+          "moved"
+        ], 
+        [
+          "advmod", 
+          "moved", 
+          "back"
+        ]
+      ], 
+      "words": [
+        [
+          "The", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "686", 
+            "CharacterOffsetBegin": "683", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "riot", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "691", 
+            "CharacterOffsetBegin": "687", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "riot"
+          }
+        ], 
+        [
+          "Police", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "698", 
+            "CharacterOffsetBegin": "692", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "police"
+          }
+        ], 
+        [
+          "start", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "704", 
+            "CharacterOffsetBegin": "699", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "start"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "707", 
+            "CharacterOffsetBegin": "705", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "move", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "712", 
+            "CharacterOffsetBegin": "708", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "move"
+          }
+        ], 
+        [
+          "in", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "715", 
+            "CharacterOffsetBegin": "713", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "in"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "719", 
+            "CharacterOffsetBegin": "716", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "people", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "726", 
+            "CharacterOffsetBegin": "720", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "people"
+          }
+        ], 
+        [
+          "are", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "730", 
+            "CharacterOffsetBegin": "727", 
+            "PartOfSpeech": "VBP", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "running", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "738", 
+            "CharacterOffsetBegin": "731", 
+            "PartOfSpeech": "VBG", 
+            "Lemma": "run"
+          }
+        ], 
+        [
+          "away", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "743", 
+            "CharacterOffsetBegin": "739", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "away"
+          }
+        ], 
+        [
+          "with", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "748", 
+            "CharacterOffsetBegin": "744", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "with"
+          }
+        ], 
+        [
+          "tears", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "754", 
+            "CharacterOffsetBegin": "749", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "tear"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "755", 
+            "CharacterOffsetBegin": "754", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "so", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "758", 
+            "CharacterOffsetBegin": "756", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "so"
+          }
+        ], 
+        [
+          "we", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "761", 
+            "CharacterOffsetBegin": "759", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "we"
+          }
+        ], 
+        [
+          "moved", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "767", 
+            "CharacterOffsetBegin": "762", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "move"
+          }
+        ], 
+        [
+          "back", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "772", 
+            "CharacterOffsetBegin": "768", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "back"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "773", 
+            "CharacterOffsetBegin": "772", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (CC But) (VP (VBD followed) (NP (NP (ADJP (DT the) (PRN (-LRB- -LRB-) (ADVP (RB now)) (-RRB- -RRB-))) (NN riot)) (CC and) (NP (DT the) (NN riot) (NN police)))) (. .)))", 
+      "text": "But followed the (now) riot and the riot police.", 
+      "dependencies": [
+        [
+          "cc", 
+          "followed", 
+          "But"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "followed"
+        ], 
+        [
+          "amod", 
+          "riot", 
+          "the"
+        ], 
+        [
+          "dep", 
+          "the", 
+          "now"
+        ], 
+        [
+          "dobj", 
+          "followed", 
+          "riot"
+        ], 
+        [
+          "det", 
+          "police", 
+          "the"
+        ], 
+        [
+          "nn", 
+          "police", 
+          "riot"
+        ], 
+        [
+          "dobj", 
+          "followed", 
+          "police"
+        ], 
+        [
+          "conj_and", 
+          "riot", 
+          "police"
+        ]
+      ], 
+      "words": [
+        [
+          "But", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "777", 
+            "CharacterOffsetBegin": "774", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "but"
+          }
+        ], 
+        [
+          "followed", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "786", 
+            "CharacterOffsetBegin": "778", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "follow"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "790", 
+            "CharacterOffsetBegin": "787", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "-LRB-", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "792", 
+            "CharacterOffsetBegin": "791", 
+            "PartOfSpeech": "-LRB-", 
+            "Lemma": "-lrb-"
+          }
+        ], 
+        [
+          "now", 
+          {
+            "NormalizedNamedEntityTag": "PRESENT_REF", 
+            "Timex": "<TIMEX3 tid=\"t1\" value=\"PRESENT_REF\" type=\"DATE\">now</TIMEX3>", 
+            "Lemma": "now", 
+            "CharacterOffsetEnd": "795", 
+            "PartOfSpeech": "RB", 
+            "CharacterOffsetBegin": "792", 
+            "NamedEntityTag": "DATE"
+          }
+        ], 
+        [
+          "-RRB-", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "796", 
+            "CharacterOffsetBegin": "795", 
+            "PartOfSpeech": "-RRB-", 
+            "Lemma": "-rrb-"
+          }
+        ], 
+        [
+          "riot", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "801", 
+            "CharacterOffsetBegin": "797", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "riot"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "805", 
+            "CharacterOffsetBegin": "802", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "809", 
+            "CharacterOffsetBegin": "806", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "riot", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "814", 
+            "CharacterOffsetBegin": "810", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "riot"
+          }
+        ], 
+        [
+          "police", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "821", 
+            "CharacterOffsetBegin": "815", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "police"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "822", 
+            "CharacterOffsetBegin": "821", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (NP (PRP We)) (VP (VBD followed) (PP (IN from) (NP (FW Syntagma) (FW Sq))) (PP (TO to) (NP (NNP Omonia) (NNP Sq.)))) (. .)))", 
+      "text": "We followed from Syntagma Sq to Omonia Sq.", 
+      "dependencies": [
+        [
+          "nsubj", 
+          "followed", 
+          "We"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "followed"
+        ], 
+        [
+          "nn", 
+          "Sq", 
+          "Syntagma"
+        ], 
+        [
+          "prep_from", 
+          "followed", 
+          "Sq"
+        ], 
+        [
+          "nn", 
+          "Sq.", 
+          "Omonia"
+        ], 
+        [
+          "prep_to", 
+          "followed", 
+          "Sq."
+        ]
+      ], 
+      "words": [
+        [
+          "We", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "825", 
+            "CharacterOffsetBegin": "823", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "we"
+          }
+        ], 
+        [
+          "followed", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "834", 
+            "CharacterOffsetBegin": "826", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "follow"
+          }
+        ], 
+        [
+          "from", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "839", 
+            "CharacterOffsetBegin": "835", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "from"
+          }
+        ], 
+        [
+          "Syntagma", 
+          {
+            "NamedEntityTag": "LOCATION", 
+            "CharacterOffsetEnd": "848", 
+            "CharacterOffsetBegin": "840", 
+            "PartOfSpeech": "FW", 
+            "Lemma": "syntagma"
+          }
+        ], 
+        [
+          "Sq", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "851", 
+            "CharacterOffsetBegin": "849", 
+            "PartOfSpeech": "FW", 
+            "Lemma": "sq"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "854", 
+            "CharacterOffsetBegin": "852", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "Omonia", 
+          {
+            "NamedEntityTag": "LOCATION", 
+            "CharacterOffsetEnd": "861", 
+            "CharacterOffsetBegin": "855", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Omonia"
+          }
+        ], 
+        [
+          "Sq.", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "864", 
+            "CharacterOffsetBegin": "862", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Sq."
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "865", 
+            "CharacterOffsetBegin": "864", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (PP (IN At) (NP (NNP Panopistimo) (NNP Sq))) (, ,) (S (NP (DT the) (NNPS Anarchists)) (VP (VBD were) (VP (VBG egging) (NP (DT the) (NN riot) (NN police)) (PP (IN on) (PP (TO to)))))) (CC and) (S (NP (DT the) (NN riot) (NN police)) (VP (VBD came) (PP (IN with) (NP (NN ther) (JJ little) (NNS batons))))) (. .)))", 
+      "text": "At Panopistimo Sq, the Anarchists were egging the riot police on to and the riot police came with ther little batons.", 
+      "dependencies": [
+        [
+          "nn", 
+          "Sq", 
+          "Panopistimo"
+        ], 
+        [
+          "prep_at", 
+          "egging", 
+          "Sq"
+        ], 
+        [
+          "det", 
+          "Anarchists", 
+          "the"
+        ], 
+        [
+          "nsubj", 
+          "egging", 
+          "Anarchists"
+        ], 
+        [
+          "aux", 
+          "egging", 
+          "were"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "egging"
+        ], 
+        [
+          "det", 
+          "police", 
+          "the"
+        ], 
+        [
+          "nn", 
+          "police", 
+          "riot"
+        ], 
+        [
+          "dobj", 
+          "egging", 
+          "police"
+        ], 
+        [
+          "prep", 
+          "egging", 
+          "on"
+        ], 
+        [
+          "pcomp", 
+          "on", 
+          "to"
+        ], 
+        [
+          "prep", 
+          "on", 
+          "to"
+        ], 
+        [
+          "det", 
+          "police", 
+          "the"
+        ], 
+        [
+          "nn", 
+          "police", 
+          "riot"
+        ], 
+        [
+          "nsubj", 
+          "came", 
+          "police"
+        ], 
+        [
+          "conj_and", 
+          "egging", 
+          "came"
+        ], 
+        [
+          "nn", 
+          "batons", 
+          "ther"
+        ], 
+        [
+          "amod", 
+          "batons", 
+          "little"
+        ], 
+        [
+          "prep_with", 
+          "came", 
+          "batons"
+        ]
+      ], 
+      "words": [
+        [
+          "At", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "868", 
+            "CharacterOffsetBegin": "866", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "at"
+          }
+        ], 
+        [
+          "Panopistimo", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "880", 
+            "CharacterOffsetBegin": "869", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Panopistimo"
+          }
+        ], 
+        [
+          "Sq", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "883", 
+            "CharacterOffsetBegin": "881", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Sq"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "884", 
+            "CharacterOffsetBegin": "883", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "888", 
+            "CharacterOffsetBegin": "885", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "Anarchists", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "899", 
+            "CharacterOffsetBegin": "889", 
+            "PartOfSpeech": "NNPS", 
+            "Lemma": "Anarchists"
+          }
+        ], 
+        [
+          "were", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "904", 
+            "CharacterOffsetBegin": "900", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "egging", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "911", 
+            "CharacterOffsetBegin": "905", 
+            "PartOfSpeech": "VBG", 
+            "Lemma": "egg"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "915", 
+            "CharacterOffsetBegin": "912", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "riot", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "920", 
+            "CharacterOffsetBegin": "916", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "riot"
+          }
+        ], 
+        [
+          "police", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "927", 
+            "CharacterOffsetBegin": "921", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "police"
+          }
+        ], 
+        [
+          "on", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "930", 
+            "CharacterOffsetBegin": "928", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "on"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "933", 
+            "CharacterOffsetBegin": "931", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "937", 
+            "CharacterOffsetBegin": "934", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "941", 
+            "CharacterOffsetBegin": "938", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "riot", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "946", 
+            "CharacterOffsetBegin": "942", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "riot"
+          }
+        ], 
+        [
+          "police", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "953", 
+            "CharacterOffsetBegin": "947", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "police"
+          }
+        ], 
+        [
+          "came", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "958", 
+            "CharacterOffsetBegin": "954", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "come"
+          }
+        ], 
+        [
+          "with", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "963", 
+            "CharacterOffsetBegin": "959", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "with"
+          }
+        ], 
+        [
+          "ther", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "968", 
+            "CharacterOffsetBegin": "964", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "ther"
+          }
+        ], 
+        [
+          "little", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "975", 
+            "CharacterOffsetBegin": "969", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "little"
+          }
+        ], 
+        [
+          "batons", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "982", 
+            "CharacterOffsetBegin": "976", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "baton"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "983", 
+            "CharacterOffsetBegin": "982", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (S (NP (NP (NP (PRP They)) (SBAR (S (S (NP (PRP they)) (VP (VBD threw) (NP (DT the) (NN gas)))) (, ,) (CC and) (S (NP (PRP we)) (VP (VBD were) (ADJP (RB too) (JJ close))))))) (CC and) (NP (PRP$ my) (NNS eyes))) (VP (VBP hurt))) (: -) (S (ADVP (RB seriously)) (NP (PRP it)) (VP (VBD was) (ADJP (JJR worse)) (PP (IN than) (NP (NP (NP (JJ stinging) (NN nettle)) (CC or) (NP (NN poison) (NN ivy))) (, ,) (RB just) (NP (DT a) (JJ wretched) (NN burning)))))) (. .)))", 
+      "text": "They they threw the gas, and we were too close and my eyes hurt - seriously it was worse than stinging nettle or poison ivy, just a wretched burning.", 
+      "dependencies": [
+        [
+          "nsubj", 
+          "hurt", 
+          "They"
+        ], 
+        [
+          "nsubj", 
+          "threw", 
+          "they"
+        ], 
+        [
+          "rcmod", 
+          "They", 
+          "threw"
+        ], 
+        [
+          "det", 
+          "gas", 
+          "the"
+        ], 
+        [
+          "dobj", 
+          "threw", 
+          "gas"
+        ], 
+        [
+          "nsubj", 
+          "close", 
+          "we"
+        ], 
+        [
+          "cop", 
+          "close", 
+          "were"
+        ], 
+        [
+          "advmod", 
+          "close", 
+          "too"
+        ], 
+        [
+          "rcmod", 
+          "They", 
+          "close"
+        ], 
+        [
+          "conj_and", 
+          "threw", 
+          "close"
+        ], 
+        [
+          "poss", 
+          "eyes", 
+          "my"
+        ], 
+        [
+          "conj_and", 
+          "They", 
+          "eyes"
+        ], 
+        [
+          "nsubj", 
+          "hurt", 
+          "eyes"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "hurt"
+        ], 
+        [
+          "advmod", 
+          "worse", 
+          "seriously"
+        ], 
+        [
+          "nsubj", 
+          "worse", 
+          "it"
+        ], 
+        [
+          "cop", 
+          "worse", 
+          "was"
+        ], 
+        [
+          "parataxis", 
+          "hurt", 
+          "worse"
+        ], 
+        [
+          "amod", 
+          "nettle", 
+          "stinging"
+        ], 
+        [
+          "prep_than", 
+          "worse", 
+          "nettle"
+        ], 
+        [
+          "nn", 
+          "ivy", 
+          "poison"
+        ], 
+        [
+          "prep_than", 
+          "worse", 
+          "ivy"
+        ], 
+        [
+          "conj_or", 
+          "nettle", 
+          "ivy"
+        ], 
+        [
+          "advmod", 
+          "nettle", 
+          "just"
+        ], 
+        [
+          "det", 
+          "burning", 
+          "a"
+        ], 
+        [
+          "amod", 
+          "burning", 
+          "wretched"
+        ], 
+        [
+          "dep", 
+          "nettle", 
+          "burning"
+        ]
+      ], 
+      "words": [
+        [
+          "They", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "988", 
+            "CharacterOffsetBegin": "984", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "they"
+          }
+        ], 
+        [
+          "they", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "993", 
+            "CharacterOffsetBegin": "989", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "they"
+          }
+        ], 
+        [
+          "threw", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "999", 
+            "CharacterOffsetBegin": "994", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "throw"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1003", 
+            "CharacterOffsetBegin": "1000", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "gas", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1007", 
+            "CharacterOffsetBegin": "1004", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "gas"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1008", 
+            "CharacterOffsetBegin": "1007", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1012", 
+            "CharacterOffsetBegin": "1009", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "we", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1015", 
+            "CharacterOffsetBegin": "1013", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "we"
+          }
+        ], 
+        [
+          "were", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1020", 
+            "CharacterOffsetBegin": "1016", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "too", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1024", 
+            "CharacterOffsetBegin": "1021", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "too"
+          }
+        ], 
+        [
+          "close", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1030", 
+            "CharacterOffsetBegin": "1025", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "close"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1034", 
+            "CharacterOffsetBegin": "1031", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "my", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1037", 
+            "CharacterOffsetBegin": "1035", 
+            "PartOfSpeech": "PRP$", 
+            "Lemma": "my"
+          }
+        ], 
+        [
+          "eyes", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1042", 
+            "CharacterOffsetBegin": "1038", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "eye"
+          }
+        ], 
+        [
+          "hurt", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1047", 
+            "CharacterOffsetBegin": "1043", 
+            "PartOfSpeech": "VBP", 
+            "Lemma": "hurt"
+          }
+        ], 
+        [
+          "-", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1049", 
+            "CharacterOffsetBegin": "1048", 
+            "PartOfSpeech": ":", 
+            "Lemma": "-"
+          }
+        ], 
+        [
+          "seriously", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1059", 
+            "CharacterOffsetBegin": "1050", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "seriously"
+          }
+        ], 
+        [
+          "it", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1062", 
+            "CharacterOffsetBegin": "1060", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "it"
+          }
+        ], 
+        [
+          "was", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1066", 
+            "CharacterOffsetBegin": "1063", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "worse", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1072", 
+            "CharacterOffsetBegin": "1067", 
+            "PartOfSpeech": "JJR", 
+            "Lemma": "worse"
+          }
+        ], 
+        [
+          "than", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1077", 
+            "CharacterOffsetBegin": "1073", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "than"
+          }
+        ], 
+        [
+          "stinging", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1086", 
+            "CharacterOffsetBegin": "1078", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "stinging"
+          }
+        ], 
+        [
+          "nettle", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1093", 
+            "CharacterOffsetBegin": "1087", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "nettle"
+          }
+        ], 
+        [
+          "or", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1096", 
+            "CharacterOffsetBegin": "1094", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "or"
+          }
+        ], 
+        [
+          "poison", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1103", 
+            "CharacterOffsetBegin": "1097", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "poison"
+          }
+        ], 
+        [
+          "ivy", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1107", 
+            "CharacterOffsetBegin": "1104", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "ivy"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1108", 
+            "CharacterOffsetBegin": "1107", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "just", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1113", 
+            "CharacterOffsetBegin": "1109", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "just"
+          }
+        ], 
+        [
+          "a", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1115", 
+            "CharacterOffsetBegin": "1114", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "a"
+          }
+        ], 
+        [
+          "wretched", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1124", 
+            "CharacterOffsetBegin": "1116", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "wretched"
+          }
+        ], 
+        [
+          "burning", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1132", 
+            "CharacterOffsetBegin": "1125", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "burning"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1133", 
+            "CharacterOffsetBegin": "1132", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (NP (PRP They)) (PRN (S (NP (PRP we)) (VP (VBD followed) (PP (PP (TO to) (NP (NNP Omonia) (NNP Sq))) (, ,) (CC but) (PP (IN along) (NP (DT the) (NN way))))))) (NP (PRP they)) (VP (VBD had) (VP (VBN started) (NP (NP (DT a) (NN fire)) (PP (IN in) (NP (DT every) (NN trash) (NN bin) (CC and) (NN dumpster)))))) (. .)))", 
+      "text": "They we followed to Omonia Sq, but along the way they had started a fire in every trash bin and dumpster.", 
+      "dependencies": [
+        [
+          "nsubj", 
+          "started", 
+          "They"
+        ], 
+        [
+          "nsubj", 
+          "followed", 
+          "we"
+        ], 
+        [
+          "nsubj", 
+          "followed", 
+          "we"
+        ], 
+        [
+          "conj_but", 
+          "followed", 
+          "followed"
+        ], 
+        [
+          "parataxis", 
+          "started", 
+          "followed"
+        ], 
+        [
+          "parataxis", 
+          "started", 
+          "followed"
+        ], 
+        [
+          "nn", 
+          "Sq", 
+          "Omonia"
+        ], 
+        [
+          "prep_to", 
+          "followed", 
+          "Sq"
+        ], 
+        [
+          "det", 
+          "way", 
+          "the"
+        ], 
+        [
+          "prep_along", 
+          "followed", 
+          "way"
+        ], 
+        [
+          "nsubj", 
+          "started", 
+          "they"
+        ], 
+        [
+          "aux", 
+          "started", 
+          "had"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "started"
+        ], 
+        [
+          "det", 
+          "fire", 
+          "a"
+        ], 
+        [
+          "dobj", 
+          "started", 
+          "fire"
+        ], 
+        [
+          "det", 
+          "bin", 
+          "every"
+        ], 
+        [
+          "nn", 
+          "bin", 
+          "trash"
+        ], 
+        [
+          "prep_in", 
+          "fire", 
+          "bin"
+        ], 
+        [
+          "prep_in", 
+          "fire", 
+          "dumpster"
+        ], 
+        [
+          "conj_and", 
+          "bin", 
+          "dumpster"
+        ]
+      ], 
+      "words": [
+        [
+          "They", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1138", 
+            "CharacterOffsetBegin": "1134", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "they"
+          }
+        ], 
+        [
+          "we", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1141", 
+            "CharacterOffsetBegin": "1139", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "we"
+          }
+        ], 
+        [
+          "followed", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1150", 
+            "CharacterOffsetBegin": "1142", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "follow"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1153", 
+            "CharacterOffsetBegin": "1151", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "Omonia", 
+          {
+            "NamedEntityTag": "ORGANIZATION", 
+            "CharacterOffsetEnd": "1160", 
+            "CharacterOffsetBegin": "1154", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Omonia"
+          }
+        ], 
+        [
+          "Sq", 
+          {
+            "NamedEntityTag": "ORGANIZATION", 
+            "CharacterOffsetEnd": "1163", 
+            "CharacterOffsetBegin": "1161", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Sq"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1164", 
+            "CharacterOffsetBegin": "1163", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "but", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1168", 
+            "CharacterOffsetBegin": "1165", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "but"
+          }
+        ], 
+        [
+          "along", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1174", 
+            "CharacterOffsetBegin": "1169", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "along"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1178", 
+            "CharacterOffsetBegin": "1175", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "way", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1182", 
+            "CharacterOffsetBegin": "1179", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "way"
+          }
+        ], 
+        [
+          "they", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1187", 
+            "CharacterOffsetBegin": "1183", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "they"
+          }
+        ], 
+        [
+          "had", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1191", 
+            "CharacterOffsetBegin": "1188", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "have"
+          }
+        ], 
+        [
+          "started", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1199", 
+            "CharacterOffsetBegin": "1192", 
+            "PartOfSpeech": "VBN", 
+            "Lemma": "start"
+          }
+        ], 
+        [
+          "a", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1201", 
+            "CharacterOffsetBegin": "1200", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "a"
+          }
+        ], 
+        [
+          "fire", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1206", 
+            "CharacterOffsetBegin": "1202", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "fire"
+          }
+        ], 
+        [
+          "in", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1209", 
+            "CharacterOffsetBegin": "1207", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "in"
+          }
+        ], 
+        [
+          "every", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1215", 
+            "CharacterOffsetBegin": "1210", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "every"
+          }
+        ], 
+        [
+          "trash", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1221", 
+            "CharacterOffsetBegin": "1216", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "trash"
+          }
+        ], 
+        [
+          "bin", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1225", 
+            "CharacterOffsetBegin": "1222", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "bin"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1229", 
+            "CharacterOffsetBegin": "1226", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "dumpster", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1238", 
+            "CharacterOffsetBegin": "1230", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "dumpster"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1239", 
+            "CharacterOffsetBegin": "1238", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (NP (PRP It)) (VP (VBD was) (NP (NNP CRAZY))) (. .)))", 
+      "text": "It was CRAZY.", 
+      "dependencies": [
+        [
+          "nsubj", 
+          "CRAZY", 
+          "It"
+        ], 
+        [
+          "cop", 
+          "CRAZY", 
+          "was"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "CRAZY"
+        ]
+      ], 
+      "words": [
+        [
+          "It", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1242", 
+            "CharacterOffsetBegin": "1240", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "it"
+          }
+        ], 
+        [
+          "was", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1246", 
+            "CharacterOffsetBegin": "1243", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "CRAZY", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1252", 
+            "CharacterOffsetBegin": "1247", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "CRAZY"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1253", 
+            "CharacterOffsetBegin": "1252", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (NP (PRP We)) (VP (VP (VBD kept) (ADVP (RB pretty) (RB far)) (PP (IN behind))) (, ,) (CC and) (VP (ADVP (RB then)) (VBD lost) (NP (PRP them)))) (. .)))", 
+      "text": "We kept pretty far behind, and then lost them.", 
+      "dependencies": [
+        [
+          "nsubj", 
+          "kept", 
+          "We"
+        ], 
+        [
+          "nsubj", 
+          "lost", 
+          "We"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "kept"
+        ], 
+        [
+          "advmod", 
+          "far", 
+          "pretty"
+        ], 
+        [
+          "advmod", 
+          "kept", 
+          "far"
+        ], 
+        [
+          "prep", 
+          "kept", 
+          "behind"
+        ], 
+        [
+          "advmod", 
+          "lost", 
+          "then"
+        ], 
+        [
+          "conj_and", 
+          "kept", 
+          "lost"
+        ], 
+        [
+          "dobj", 
+          "lost", 
+          "them"
+        ]
+      ], 
+      "words": [
+        [
+          "We", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1256", 
+            "CharacterOffsetBegin": "1254", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "we"
+          }
+        ], 
+        [
+          "kept", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1261", 
+            "CharacterOffsetBegin": "1257", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "keep"
+          }
+        ], 
+        [
+          "pretty", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1268", 
+            "CharacterOffsetBegin": "1262", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "pretty"
+          }
+        ], 
+        [
+          "far", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1272", 
+            "CharacterOffsetBegin": "1269", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "far"
+          }
+        ], 
+        [
+          "behind", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1279", 
+            "CharacterOffsetBegin": "1273", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "behind"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1280", 
+            "CharacterOffsetBegin": "1279", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1284", 
+            "CharacterOffsetBegin": "1281", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "then", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1289", 
+            "CharacterOffsetBegin": "1285", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "then"
+          }
+        ], 
+        [
+          "lost", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1294", 
+            "CharacterOffsetBegin": "1290", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "lose"
+          }
+        ], 
+        [
+          "them", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1299", 
+            "CharacterOffsetBegin": "1295", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "they"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1300", 
+            "CharacterOffsetBegin": "1299", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (CC But) (NP (PRP it)) (VP (VBD was) (ADVP (RB pretty) (JJ much)) (VP (VBN disapated) (SBAR (S (NP (PRP I)) (VP (VBP think)))))) (. .)))", 
+      "text": "But it was pretty much disapated I think.", 
+      "dependencies": [
+        [
+          "cc", 
+          "disapated", 
+          "But"
+        ], 
+        [
+          "nsubjpass", 
+          "disapated", 
+          "it"
+        ], 
+        [
+          "auxpass", 
+          "disapated", 
+          "was"
+        ], 
+        [
+          "advmod", 
+          "much", 
+          "pretty"
+        ], 
+        [
+          "advmod", 
+          "disapated", 
+          "much"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "disapated"
+        ], 
+        [
+          "nsubj", 
+          "think", 
+          "I"
+        ], 
+        [
+          "ccomp", 
+          "disapated", 
+          "think"
+        ]
+      ], 
+      "words": [
+        [
+          "But", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1304", 
+            "CharacterOffsetBegin": "1301", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "but"
+          }
+        ], 
+        [
+          "it", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1307", 
+            "CharacterOffsetBegin": "1305", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "it"
+          }
+        ], 
+        [
+          "was", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1311", 
+            "CharacterOffsetBegin": "1308", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "pretty", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1318", 
+            "CharacterOffsetBegin": "1312", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "pretty"
+          }
+        ], 
+        [
+          "much", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1323", 
+            "CharacterOffsetBegin": "1319", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "much"
+          }
+        ], 
+        [
+          "disapated", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1333", 
+            "CharacterOffsetBegin": "1324", 
+            "PartOfSpeech": "VBN", 
+            "Lemma": "disapate"
+          }
+        ], 
+        [
+          "I", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1335", 
+            "CharacterOffsetBegin": "1334", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "I"
+          }
+        ], 
+        [
+          "think", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1341", 
+            "CharacterOffsetBegin": "1336", 
+            "PartOfSpeech": "VBP", 
+            "Lemma": "think"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1342", 
+            "CharacterOffsetBegin": "1341", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (NP (PRP It)) (VP (VBD was) (ADJP (NP (JJ super)) (JJ intense))) (. .)))", 
+      "text": "It was super intense.", 
+      "dependencies": [
+        [
+          "nsubj", 
+          "intense", 
+          "It"
+        ], 
+        [
+          "cop", 
+          "intense", 
+          "was"
+        ], 
+        [
+          "npadvmod", 
+          "intense", 
+          "super"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "intense"
+        ]
+      ], 
+      "words": [
+        [
+          "It", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1345", 
+            "CharacterOffsetBegin": "1343", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "it"
+          }
+        ], 
+        [
+          "was", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1349", 
+            "CharacterOffsetBegin": "1346", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "super", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1355", 
+            "CharacterOffsetBegin": "1350", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "super"
+          }
+        ], 
+        [
+          "intense", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1363", 
+            "CharacterOffsetBegin": "1356", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "intense"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1364", 
+            "CharacterOffsetBegin": "1363", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (S (NP (PRP I)) (VP (VBP mean))) (: ...) (S (SBAR (IN while) (S (NP (PRP we)) (VP (VBD were) (ADVP (RB still)) (PP (IN in) (NP (FW Syntagma)))))) (NP (PRP we)) (VP (VBD were) (VP (VBG standing) (PP (IN by) (NP (NP (DT the) (NN Mc) (NN D) (POS 's)) (CC and) (NP (DT all)))) (PP (IN of) (NP (NP (DT a) (JJ sudden)) (SBAR (S (NP (PRP we)) (VP (VBP say) (SBAR (S (NP (DT the) (JJ whole) (NN mob)) (ADVP (RB just)) (VP (VBP run) (PP (IN towards) (NP (PRP us)))))))))))))) (. .)))", 
+      "text": "I mean ... while we were still in Syntagma we were standing by the Mc D's and all of a sudden we say the whole mob just run towards us.", 
+      "dependencies": [
+        [
+          "nsubj", 
+          "mean", 
+          "I"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "mean"
+        ], 
+        [
+          "mark", 
+          "were", 
+          "while"
+        ], 
+        [
+          "nsubj", 
+          "were", 
+          "we"
+        ], 
+        [
+          "advcl", 
+          "standing", 
+          "were"
+        ], 
+        [
+          "advmod", 
+          "were", 
+          "still"
+        ], 
+        [
+          "prep_in", 
+          "were", 
+          "Syntagma"
+        ], 
+        [
+          "nsubj", 
+          "standing", 
+          "we"
+        ], 
+        [
+          "aux", 
+          "standing", 
+          "were"
+        ], 
+        [
+          "parataxis", 
+          "mean", 
+          "standing"
+        ], 
+        [
+          "det", 
+          "D", 
+          "the"
+        ], 
+        [
+          "nn", 
+          "D", 
+          "Mc"
+        ], 
+        [
+          "prep_by", 
+          "standing", 
+          "D"
+        ], 
+        [
+          "possessive", 
+          "D", 
+          "'s"
+        ], 
+        [
+          "prep_by", 
+          "standing", 
+          "all"
+        ], 
+        [
+          "conj_and", 
+          "D", 
+          "all"
+        ], 
+        [
+          "det", 
+          "sudden", 
+          "a"
+        ], 
+        [
+          "prep_of", 
+          "standing", 
+          "sudden"
+        ], 
+        [
+          "nsubj", 
+          "say", 
+          "we"
+        ], 
+        [
+          "rcmod", 
+          "sudden", 
+          "say"
+        ], 
+        [
+          "det", 
+          "mob", 
+          "the"
+        ], 
+        [
+          "amod", 
+          "mob", 
+          "whole"
+        ], 
+        [
+          "nsubj", 
+          "run", 
+          "mob"
+        ], 
+        [
+          "advmod", 
+          "run", 
+          "just"
+        ], 
+        [
+          "ccomp", 
+          "say", 
+          "run"
+        ], 
+        [
+          "prep_towards", 
+          "run", 
+          "us"
+        ]
+      ], 
+      "words": [
+        [
+          "I", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1366", 
+            "CharacterOffsetBegin": "1365", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "I"
+          }
+        ], 
+        [
+          "mean", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1371", 
+            "CharacterOffsetBegin": "1367", 
+            "PartOfSpeech": "VBP", 
+            "Lemma": "mean"
+          }
+        ], 
+        [
+          "...", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1375", 
+            "CharacterOffsetBegin": "1372", 
+            "PartOfSpeech": ":", 
+            "Lemma": "..."
+          }
+        ], 
+        [
+          "while", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1381", 
+            "CharacterOffsetBegin": "1376", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "while"
+          }
+        ], 
+        [
+          "we", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1384", 
+            "CharacterOffsetBegin": "1382", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "we"
+          }
+        ], 
+        [
+          "were", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1389", 
+            "CharacterOffsetBegin": "1385", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "still", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1395", 
+            "CharacterOffsetBegin": "1390", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "still"
+          }
+        ], 
+        [
+          "in", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1398", 
+            "CharacterOffsetBegin": "1396", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "in"
+          }
+        ], 
+        [
+          "Syntagma", 
+          {
+            "NamedEntityTag": "LOCATION", 
+            "CharacterOffsetEnd": "1407", 
+            "CharacterOffsetBegin": "1399", 
+            "PartOfSpeech": "FW", 
+            "Lemma": "syntagma"
+          }
+        ], 
+        [
+          "we", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1410", 
+            "CharacterOffsetBegin": "1408", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "we"
+          }
+        ], 
+        [
+          "were", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1415", 
+            "CharacterOffsetBegin": "1411", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "standing", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1424", 
+            "CharacterOffsetBegin": "1416", 
+            "PartOfSpeech": "VBG", 
+            "Lemma": "stand"
+          }
+        ], 
+        [
+          "by", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1427", 
+            "CharacterOffsetBegin": "1425", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "by"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1431", 
+            "CharacterOffsetBegin": "1428", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "Mc", 
+          {
+            "NamedEntityTag": "ORGANIZATION", 
+            "CharacterOffsetEnd": "1434", 
+            "CharacterOffsetBegin": "1432", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "mc"
+          }
+        ], 
+        [
+          "D", 
+          {
+            "NamedEntityTag": "ORGANIZATION", 
+            "CharacterOffsetEnd": "1436", 
+            "CharacterOffsetBegin": "1435", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "d"
+          }
+        ], 
+        [
+          "'s", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1438", 
+            "CharacterOffsetBegin": "1436", 
+            "PartOfSpeech": "POS", 
+            "Lemma": "'s"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1442", 
+            "CharacterOffsetBegin": "1439", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "all", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1446", 
+            "CharacterOffsetBegin": "1443", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "all"
+          }
+        ], 
+        [
+          "of", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1449", 
+            "CharacterOffsetBegin": "1447", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "of"
+          }
+        ], 
+        [
+          "a", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1451", 
+            "CharacterOffsetBegin": "1450", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "a"
+          }
+        ], 
+        [
+          "sudden", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1458", 
+            "CharacterOffsetBegin": "1452", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "sudden"
+          }
+        ], 
+        [
+          "we", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1461", 
+            "CharacterOffsetBegin": "1459", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "we"
+          }
+        ], 
+        [
+          "say", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1465", 
+            "CharacterOffsetBegin": "1462", 
+            "PartOfSpeech": "VBP", 
+            "Lemma": "say"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1469", 
+            "CharacterOffsetBegin": "1466", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "whole", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1475", 
+            "CharacterOffsetBegin": "1470", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "whole"
+          }
+        ], 
+        [
+          "mob", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1479", 
+            "CharacterOffsetBegin": "1476", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "mob"
+          }
+        ], 
+        [
+          "just", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1484", 
+            "CharacterOffsetBegin": "1480", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "just"
+          }
+        ], 
+        [
+          "run", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1488", 
+            "CharacterOffsetBegin": "1485", 
+            "PartOfSpeech": "VBP", 
+            "Lemma": "run"
+          }
+        ], 
+        [
+          "towards", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1496", 
+            "CharacterOffsetBegin": "1489", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "towards"
+          }
+        ], 
+        [
+          "us", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1499", 
+            "CharacterOffsetBegin": "1497", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "we"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1500", 
+            "CharacterOffsetBegin": "1499", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (NP (PRP It)) (VP (VBD was) (PP (IN like) (PP (IN in) (NP (DT a) (NN movie))))) (. .)))", 
+      "text": "It was like in a movie.", 
+      "dependencies": [
+        [
+          "nsubj", 
+          "was", 
+          "It"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "was"
+        ], 
+        [
+          "prep", 
+          "was", 
+          "like"
+        ], 
+        [
+          "pcomp", 
+          "like", 
+          "in"
+        ], 
+        [
+          "det", 
+          "movie", 
+          "a"
+        ], 
+        [
+          "prep_in", 
+          "like", 
+          "movie"
+        ]
+      ], 
+      "words": [
+        [
+          "It", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1503", 
+            "CharacterOffsetBegin": "1501", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "it"
+          }
+        ], 
+        [
+          "was", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1507", 
+            "CharacterOffsetBegin": "1504", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "like", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1512", 
+            "CharacterOffsetBegin": "1508", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "like"
+          }
+        ], 
+        [
+          "in", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1515", 
+            "CharacterOffsetBegin": "1513", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "in"
+          }
+        ], 
+        [
+          "a", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1517", 
+            "CharacterOffsetBegin": "1516", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "a"
+          }
+        ], 
+        [
+          "movie", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1523", 
+            "CharacterOffsetBegin": "1518", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "movie"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1524", 
+            "CharacterOffsetBegin": "1523", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3656 @@
+{
+  "coref": [
+    [
+      [
+        [
+          "Toronto", 
+          0, 
+          6, 
+          26, 
+          27
+        ], 
+        [
+          "Toronto", 
+          0, 
+          1, 
+          1, 
+          2
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "900 people", 
+          0, 
+          4, 
+          13, 
+          15
+        ], 
+        [
+          "900 people , some innocent some not ,", 
+          0, 
+          4, 
+          13, 
+          21
+        ]
+      ], 
+      [
+        [
+          "the people", 
+          3, 
+          7, 
+          46, 
+          48
+        ], 
+        [
+          "900 people , some innocent some not ,", 
+          0, 
+          4, 
+          13, 
+          21
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "Montreal", 
+          5, 
+          8, 
+          8, 
+          9
+        ], 
+        [
+          "Montreal", 
+          1, 
+          0, 
+          20, 
+          21
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "my", 
+          1, 
+          5, 
+          15, 
+          16
+        ], 
+        [
+          "I", 
+          1, 
+          3, 
+          13, 
+          14
+        ]
+      ], 
+      [
+        [
+          "me", 
+          2, 
+          3, 
+          3, 
+          4
+        ], 
+        [
+          "I", 
+          1, 
+          3, 
+          13, 
+          14
+        ]
+      ], 
+      [
+        [
+          "I", 
+          2, 
+          4, 
+          14, 
+          15
+        ], 
+        [
+          "I", 
+          1, 
+          3, 
+          13, 
+          14
+        ]
+      ], 
+      [
+        [
+          "my", 
+          8, 
+          1, 
+          11, 
+          12
+        ], 
+        [
+          "I", 
+          1, 
+          3, 
+          13, 
+          14
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "they", 
+          2, 
+          0, 
+          10, 
+          11
+        ], 
+        [
+          "some friends", 
+          2, 
+          7, 
+          6, 
+          8
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "his", 
+          3, 
+          5, 
+          35, 
+          36
+        ], 
+        [
+          "one guy", 
+          3, 
+          1, 
+          30, 
+          32
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "his own cause", 
+          3, 
+          7, 
+          35, 
+          38
+        ], 
+        [
+          "his own cause , which was totally irrelevant to the reason the people were gathered", 
+          3, 
+          7, 
+          35, 
+          50
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "Sherbrooke", 
+          4, 
+          3, 
+          13, 
+          14
+        ], 
+        [
+          "Sherbrooke", 
+          4, 
+          7, 
+          7, 
+          8
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "Square St-Louis -LRB- Sherbrooke metro area -RRB-", 
+          4, 
+          5, 
+          4, 
+          11
+        ], 
+        [
+          "Square St-Louis -LRB- Sherbrooke metro area -RRB- , down Sherbrooke street , up St-Laurent ,", 
+          4, 
+          5, 
+          4, 
+          19
+        ]
+      ], 
+      [
+        [
+          "Sherbrooke street", 
+          4, 
+          4, 
+          13, 
+          15
+        ], 
+        [
+          "Square St-Louis -LRB- Sherbrooke metro area -RRB- , down Sherbrooke street , up St-Laurent ,", 
+          4, 
+          5, 
+          4, 
+          19
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "the march", 
+          6, 
+          1, 
+          10, 
+          12
+        ], 
+        [
+          "the march , some along the sides", 
+          6, 
+          1, 
+          10, 
+          17
+        ]
+      ], 
+      [
+        [
+          "the march", 
+          8, 
+          7, 
+          6, 
+          8
+        ], 
+        [
+          "the march , some along the sides", 
+          6, 
+          1, 
+          10, 
+          17
+        ]
+      ]
+    ], 
+    [
+      [
+        [
+          "them", 
+          7, 
+          0, 
+          20, 
+          21
+        ], 
+        [
+          "some", 
+          6, 
+          5, 
+          5, 
+          6
+        ]
+      ], 
+      [
+        [
+          "them", 
+          8, 
+          8, 
+          18, 
+          19
+        ], 
+        [
+          "some", 
+          6, 
+          5, 
+          5, 
+          6
+        ]
+      ]
+    ]
+  ], 
+  "sentences": [
+    {
+      "parsetree": "(ROOT (S (NP (DT The) (NNP Toronto) (NNS police)) (VP (VBD made) (NP (NP (DT the) (JJS biggest) (NN mass) (NN arrest)) (PP (IN in) (NP (JJ Canadian) (NN history)))) (, ,) (S (VP (VBG arresting) (NP (NP (CD 900) (NNS people)) (, ,) (NP (DT some) (ADJP (JJ innocent) (NP (DT some) (RB not)))) (, ,)) (PP (IN during) (NP (NP (DT the) (NN G8\\/G20) (NNS summits)) (PP (IN in) (NP (NNP Toronto)))))))) (. .)))", 
+      "text": "The Toronto police made the biggest mass arrest in Canadian history, arresting 900 people, some innocent some not, during the G8/G20 summits in Toronto.", 
+      "dependencies": [
+        [
+          "det", 
+          "police", 
+          "The"
+        ], 
+        [
+          "nn", 
+          "police", 
+          "Toronto"
+        ], 
+        [
+          "nsubj", 
+          "made", 
+          "police"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "made"
+        ], 
+        [
+          "det", 
+          "arrest", 
+          "the"
+        ], 
+        [
+          "amod", 
+          "arrest", 
+          "biggest"
+        ], 
+        [
+          "nn", 
+          "arrest", 
+          "mass"
+        ], 
+        [
+          "dobj", 
+          "made", 
+          "arrest"
+        ], 
+        [
+          "amod", 
+          "history", 
+          "Canadian"
+        ], 
+        [
+          "prep_in", 
+          "arrest", 
+          "history"
+        ], 
+        [
+          "partmod", 
+          "made", 
+          "arresting"
+        ], 
+        [
+          "xcomp", 
+          "made", 
+          "arresting"
+        ], 
+        [
+          "num", 
+          "people", 
+          "900"
+        ], 
+        [
+          "dobj", 
+          "arresting", 
+          "people"
+        ], 
+        [
+          "det", 
+          "innocent", 
+          "some"
+        ], 
+        [
+          "appos", 
+          "people", 
+          "innocent"
+        ], 
+        [
+          "det", 
+          "not", 
+          "some"
+        ], 
+        [
+          "dep", 
+          "innocent", 
+          "not"
+        ], 
+        [
+          "det", 
+          "summits", 
+          "the"
+        ], 
+        [
+          "nn", 
+          "summits", 
+          "G8\\/G20"
+        ], 
+        [
+          "prep_during", 
+          "arresting", 
+          "summits"
+        ], 
+        [
+          "prep_in", 
+          "summits", 
+          "Toronto"
+        ]
+      ], 
+      "words": [
+        [
+          "The", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "3", 
+            "CharacterOffsetBegin": "0", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "Toronto", 
+          {
+            "NamedEntityTag": "LOCATION", 
+            "CharacterOffsetEnd": "11", 
+            "CharacterOffsetBegin": "4", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Toronto"
+          }
+        ], 
+        [
+          "police", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "18", 
+            "CharacterOffsetBegin": "12", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "police"
+          }
+        ], 
+        [
+          "made", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "23", 
+            "CharacterOffsetBegin": "19", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "make"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "27", 
+            "CharacterOffsetBegin": "24", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "biggest", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "35", 
+            "CharacterOffsetBegin": "28", 
+            "PartOfSpeech": "JJS", 
+            "Lemma": "biggest"
+          }
+        ], 
+        [
+          "mass", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "40", 
+            "CharacterOffsetBegin": "36", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "mass"
+          }
+        ], 
+        [
+          "arrest", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "47", 
+            "CharacterOffsetBegin": "41", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "arrest"
+          }
+        ], 
+        [
+          "in", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "50", 
+            "CharacterOffsetBegin": "48", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "in"
+          }
+        ], 
+        [
+          "Canadian", 
+          {
+            "NamedEntityTag": "MISC", 
+            "CharacterOffsetEnd": "59", 
+            "CharacterOffsetBegin": "51", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "canadian"
+          }
+        ], 
+        [
+          "history", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "67", 
+            "CharacterOffsetBegin": "60", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "history"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "68", 
+            "CharacterOffsetBegin": "67", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "arresting", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "78", 
+            "CharacterOffsetBegin": "69", 
+            "PartOfSpeech": "VBG", 
+            "Lemma": "arrest"
+          }
+        ], 
+        [
+          "900", 
+          {
+            "NormalizedNamedEntityTag": "900.0", 
+            "Lemma": "900", 
+            "CharacterOffsetEnd": "82", 
+            "PartOfSpeech": "CD", 
+            "CharacterOffsetBegin": "79", 
+            "NamedEntityTag": "NUMBER"
+          }
+        ], 
+        [
+          "people", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "89", 
+            "CharacterOffsetBegin": "83", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "people"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "90", 
+            "CharacterOffsetBegin": "89", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "some", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "95", 
+            "CharacterOffsetBegin": "91", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "some"
+          }
+        ], 
+        [
+          "innocent", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "104", 
+            "CharacterOffsetBegin": "96", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "innocent"
+          }
+        ], 
+        [
+          "some", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "109", 
+            "CharacterOffsetBegin": "105", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "some"
+          }
+        ], 
+        [
+          "not", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "113", 
+            "CharacterOffsetBegin": "110", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "not"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "114", 
+            "CharacterOffsetBegin": "113", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "during", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "121", 
+            "CharacterOffsetBegin": "115", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "during"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "125", 
+            "CharacterOffsetBegin": "122", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "G8\\/G20", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "132", 
+            "CharacterOffsetBegin": "126", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "g8\\/g20"
+          }
+        ], 
+        [
+          "summits", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "140", 
+            "CharacterOffsetBegin": "133", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "summit"
+          }
+        ], 
+        [
+          "in", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "143", 
+            "CharacterOffsetBegin": "141", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "in"
+          }
+        ], 
+        [
+          "Toronto", 
+          {
+            "NamedEntityTag": "LOCATION", 
+            "CharacterOffsetEnd": "151", 
+            "CharacterOffsetBegin": "144", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Toronto"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "152", 
+            "CharacterOffsetBegin": "151", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (S (NP (NNS Protests)) (VP (VBD were) (VP (VBN organized) (PP (IN across) (NP (NP (NP (DT the) (NN country)) (ADJP (NNP June) (JJ 30th))) (CC and) (NP (NNP July) (CD 1st))))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBD made) (NP (PRP$ my) (NN way)) (ADVP (IN down) (PP (TO to) (NP (DT the) (NNP Montreal) (NN noon) (NN time) (NN protest)))))) (. .)))", 
+      "text": "Protests were organized across the country June 30th and July 1st, and I made my way down to the Montreal noon time protest.", 
+      "dependencies": [
+        [
+          "nsubjpass", 
+          "organized", 
+          "Protests"
+        ], 
+        [
+          "auxpass", 
+          "organized", 
+          "were"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "organized"
+        ], 
+        [
+          "det", 
+          "country", 
+          "the"
+        ], 
+        [
+          "prep_across", 
+          "organized", 
+          "country"
+        ], 
+        [
+          "amod", 
+          "30th", 
+          "June"
+        ], 
+        [
+          "amod", 
+          "country", 
+          "30th"
+        ], 
+        [
+          "prep_across", 
+          "organized", 
+          "July"
+        ], 
+        [
+          "conj_and", 
+          "country", 
+          "July"
+        ], 
+        [
+          "num", 
+          "July", 
+          "1st"
+        ], 
+        [
+          "nsubj", 
+          "made", 
+          "I"
+        ], 
+        [
+          "conj_and", 
+          "organized", 
+          "made"
+        ], 
+        [
+          "poss", 
+          "way", 
+          "my"
+        ], 
+        [
+          "dobj", 
+          "made", 
+          "way"
+        ], 
+        [
+          "advmod", 
+          "made", 
+          "down"
+        ], 
+        [
+          "det", 
+          "protest", 
+          "the"
+        ], 
+        [
+          "nn", 
+          "protest", 
+          "Montreal"
+        ], 
+        [
+          "nn", 
+          "protest", 
+          "noon"
+        ], 
+        [
+          "nn", 
+          "protest", 
+          "time"
+        ], 
+        [
+          "prep_to", 
+          "down", 
+          "protest"
+        ]
+      ], 
+      "words": [
+        [
+          "Protests", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "161", 
+            "CharacterOffsetBegin": "153", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "protest"
+          }
+        ], 
+        [
+          "were", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "166", 
+            "CharacterOffsetBegin": "162", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "organized", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "176", 
+            "CharacterOffsetBegin": "167", 
+            "PartOfSpeech": "VBN", 
+            "Lemma": "organize"
+          }
+        ], 
+        [
+          "across", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "183", 
+            "CharacterOffsetBegin": "177", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "across"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "187", 
+            "CharacterOffsetBegin": "184", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "country", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "195", 
+            "CharacterOffsetBegin": "188", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "country"
+          }
+        ], 
+        [
+          "June", 
+          {
+            "NormalizedNamedEntityTag": "XXXX-06-30", 
+            "Timex": "<TIMEX3 tid=\"t1\" value=\"XXXX-06-30\" type=\"DATE\">June 30th</TIMEX3>", 
+            "Lemma": "June", 
+            "CharacterOffsetEnd": "200", 
+            "PartOfSpeech": "NNP", 
+            "CharacterOffsetBegin": "196", 
+            "NamedEntityTag": "DATE"
+          }
+        ], 
+        [
+          "30th", 
+          {
+            "NormalizedNamedEntityTag": "XXXX-06-30", 
+            "Timex": "<TIMEX3 tid=\"t1\" value=\"XXXX-06-30\" type=\"DATE\">June 30th</TIMEX3>", 
+            "Lemma": "30th", 
+            "CharacterOffsetEnd": "205", 
+            "PartOfSpeech": "JJ", 
+            "CharacterOffsetBegin": "201", 
+            "NamedEntityTag": "DATE"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "209", 
+            "CharacterOffsetBegin": "206", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "July", 
+          {
+            "NormalizedNamedEntityTag": "XXXX-07-01", 
+            "Timex": "<TIMEX3 tid=\"t2\" value=\"XXXX-07-01\" type=\"DATE\">July 1st</TIMEX3>", 
+            "Lemma": "July", 
+            "CharacterOffsetEnd": "214", 
+            "PartOfSpeech": "NNP", 
+            "CharacterOffsetBegin": "210", 
+            "NamedEntityTag": "DATE"
+          }
+        ], 
+        [
+          "1st", 
+          {
+            "NormalizedNamedEntityTag": "XXXX-07-01", 
+            "Timex": "<TIMEX3 tid=\"t2\" value=\"XXXX-07-01\" type=\"DATE\">July 1st</TIMEX3>", 
+            "Lemma": "1st", 
+            "CharacterOffsetEnd": "218", 
+            "PartOfSpeech": "CD", 
+            "CharacterOffsetBegin": "215", 
+            "NamedEntityTag": "DATE"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "219", 
+            "CharacterOffsetBegin": "218", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "223", 
+            "CharacterOffsetBegin": "220", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "I", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "225", 
+            "CharacterOffsetBegin": "224", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "I"
+          }
+        ], 
+        [
+          "made", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "230", 
+            "CharacterOffsetBegin": "226", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "make"
+          }
+        ], 
+        [
+          "my", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "233", 
+            "CharacterOffsetBegin": "231", 
+            "PartOfSpeech": "PRP$", 
+            "Lemma": "my"
+          }
+        ], 
+        [
+          "way", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "237", 
+            "CharacterOffsetBegin": "234", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "way"
+          }
+        ], 
+        [
+          "down", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "242", 
+            "CharacterOffsetBegin": "238", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "down"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "245", 
+            "CharacterOffsetBegin": "243", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "249", 
+            "CharacterOffsetBegin": "246", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "Montreal", 
+          {
+            "NamedEntityTag": "LOCATION", 
+            "CharacterOffsetEnd": "258", 
+            "CharacterOffsetBegin": "250", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Montreal"
+          }
+        ], 
+        [
+          "noon", 
+          {
+            "NormalizedNamedEntityTag": "MI", 
+            "Timex": "<TIMEX3 tid=\"t3\" value=\"MI\" type=\"TIME\">noon</TIMEX3>", 
+            "Lemma": "noon", 
+            "CharacterOffsetEnd": "263", 
+            "PartOfSpeech": "NN", 
+            "CharacterOffsetBegin": "259", 
+            "NamedEntityTag": "TIME"
+          }
+        ], 
+        [
+          "time", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "268", 
+            "CharacterOffsetBegin": "264", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "time"
+          }
+        ], 
+        [
+          "protest", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "276", 
+            "CharacterOffsetBegin": "269", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "protest"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "277", 
+            "CharacterOffsetBegin": "276", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (S (NP (NNP Andrea)) (VP (VP (VBD came) (PP (IN with) (NP (PRP me)))) (CC and) (VP (VBD met) (NP (DT some) (NNS friends)) (ADVP (RB there))))) (CC and) (S (NP (PRP they)) (ADVP (DT all)) (VP (VBD marched) (SBAR (IN while) (S (NP (PRP I)) (VP (VBD ran) (S (ADVP (RB around)) (VP (VBG taking) (NP (NNS images))))))))) (. .)))", 
+      "text": "Andrea came with me and met some friends there and they all marched while I ran around taking images.", 
+      "dependencies": [
+        [
+          "nsubj", 
+          "came", 
+          "Andrea"
+        ], 
+        [
+          "nsubj", 
+          "met", 
+          "Andrea"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "came"
+        ], 
+        [
+          "prep_with", 
+          "came", 
+          "me"
+        ], 
+        [
+          "conj_and", 
+          "came", 
+          "met"
+        ], 
+        [
+          "det", 
+          "friends", 
+          "some"
+        ], 
+        [
+          "dobj", 
+          "met", 
+          "friends"
+        ], 
+        [
+          "advmod", 
+          "met", 
+          "there"
+        ], 
+        [
+          "nsubj", 
+          "marched", 
+          "they"
+        ], 
+        [
+          "advmod", 
+          "marched", 
+          "all"
+        ], 
+        [
+          "conj_and", 
+          "came", 
+          "marched"
+        ], 
+        [
+          "mark", 
+          "ran", 
+          "while"
+        ], 
+        [
+          "nsubj", 
+          "ran", 
+          "I"
+        ], 
+        [
+          "advcl", 
+          "marched", 
+          "ran"
+        ], 
+        [
+          "advmod", 
+          "taking", 
+          "around"
+        ], 
+        [
+          "xcomp", 
+          "ran", 
+          "taking"
+        ], 
+        [
+          "dobj", 
+          "taking", 
+          "images"
+        ]
+      ], 
+      "words": [
+        [
+          "Andrea", 
+          {
+            "NamedEntityTag": "PERSON", 
+            "CharacterOffsetEnd": "284", 
+            "CharacterOffsetBegin": "278", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Andrea"
+          }
+        ], 
+        [
+          "came", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "289", 
+            "CharacterOffsetBegin": "285", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "come"
+          }
+        ], 
+        [
+          "with", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "294", 
+            "CharacterOffsetBegin": "290", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "with"
+          }
+        ], 
+        [
+          "me", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "297", 
+            "CharacterOffsetBegin": "295", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "I"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "301", 
+            "CharacterOffsetBegin": "298", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "met", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "305", 
+            "CharacterOffsetBegin": "302", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "meet"
+          }
+        ], 
+        [
+          "some", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "310", 
+            "CharacterOffsetBegin": "306", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "some"
+          }
+        ], 
+        [
+          "friends", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "318", 
+            "CharacterOffsetBegin": "311", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "friend"
+          }
+        ], 
+        [
+          "there", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "324", 
+            "CharacterOffsetBegin": "319", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "there"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "328", 
+            "CharacterOffsetBegin": "325", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "they", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "333", 
+            "CharacterOffsetBegin": "329", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "they"
+          }
+        ], 
+        [
+          "all", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "337", 
+            "CharacterOffsetBegin": "334", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "all"
+          }
+        ], 
+        [
+          "marched", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "345", 
+            "CharacterOffsetBegin": "338", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "march"
+          }
+        ], 
+        [
+          "while", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "351", 
+            "CharacterOffsetBegin": "346", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "while"
+          }
+        ], 
+        [
+          "I", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "353", 
+            "CharacterOffsetBegin": "352", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "I"
+          }
+        ], 
+        [
+          "ran", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "357", 
+            "CharacterOffsetBegin": "354", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "run"
+          }
+        ], 
+        [
+          "around", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "364", 
+            "CharacterOffsetBegin": "358", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "around"
+          }
+        ], 
+        [
+          "taking", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "371", 
+            "CharacterOffsetBegin": "365", 
+            "PartOfSpeech": "VBG", 
+            "Lemma": "take"
+          }
+        ], 
+        [
+          "images", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "378", 
+            "CharacterOffsetBegin": "372", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "image"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "379", 
+            "CharacterOffsetBegin": "378", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (NP (EX There)) (VP (VBD were) (ADVP (RB approx)) (NP (NP (CD 1400) (NNS people)) (PP (IN at) (NP (NP (DT the) (NN protest)) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (ADJP (ADJP (RB mainly) (JJ peaceful)) (CC and) (ADJP (JJ non) (JJ eventful)) (, ,) (ADJP (JJ other) (PP (IN than) (NP (DT a) (JJ small) (NN scuffle)))) (PP (IN at) (NP (NP (DT the) (NN start)) (PP (IN between) (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS protesters)))))))) (SBAR (IN as) (S (NP (CD one) (NN guy)) (VP (VBD tried) (S (VP (TO to) (VP (VB push) (NP (NP (PRP$ his) (JJ own) (NN cause)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBD was) (ADJP (RB totally) (JJ irrelevant) (PP (TO to) (NP (NP (DT the) (NN reason)) (SBAR (S (NP (DT the) (NNS people)) (VP (VBD were) (VP (VBN gathered))))))))))))))))))))))))) (. .)))", 
+      "text": "There were approx 1400 people at the protest which was mainly peaceful and non eventful, other than a small scuffle at the start between some of the protesters as one guy tried to push his own cause, which was totally irrelevant to the reason the people were gathered.", 
+      "dependencies": [
+        [
+          "expl", 
+          "were", 
+          "There"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "were"
+        ], 
+        [
+          "advmod", 
+          "were", 
+          "approx"
+        ], 
+        [
+          "num", 
+          "people", 
+          "1400"
+        ], 
+        [
+          "nsubj", 
+          "were", 
+          "people"
+        ], 
+        [
+          "det", 
+          "protest", 
+          "the"
+        ], 
+        [
+          "prep_at", 
+          "people", 
+          "protest"
+        ], 
+        [
+          "nsubj", 
+          "peaceful", 
+          "protest"
+        ], 
+        [
+          "nsubj", 
+          "eventful", 
+          "protest"
+        ], 
+        [
+          "nsubj", 
+          "other", 
+          "protest"
+        ], 
+        [
+          "cop", 
+          "peaceful", 
+          "was"
+        ], 
+        [
+          "advmod", 
+          "peaceful", 
+          "mainly"
+        ], 
+        [
+          "rcmod", 
+          "protest", 
+          "peaceful"
+        ], 
+        [
+          "amod", 
+          "eventful", 
+          "non"
+        ], 
+        [
+          "rcmod", 
+          "protest", 
+          "eventful"
+        ], 
+        [
+          "conj_and", 
+          "peaceful", 
+          "eventful"
+        ], 
+        [
+          "rcmod", 
+          "protest", 
+          "other"
+        ], 
+        [
+          "conj_and", 
+          "peaceful", 
+          "other"
+        ], 
+        [
+          "det", 
+          "scuffle", 
+          "a"
+        ], 
+        [
+          "amod", 
+          "scuffle", 
+          "small"
+        ], 
+        [
+          "prep_than", 
+          "other", 
+          "scuffle"
+        ], 
+        [
+          "det", 
+          "start", 
+          "the"
+        ], 
+        [
+          "prep_at", 
+          "peaceful", 
+          "start"
+        ], 
+        [
+          "prep_between", 
+          "start", 
+          "some"
+        ], 
+        [
+          "det", 
+          "protesters", 
+          "the"
+        ], 
+        [
+          "prep_of", 
+          "some", 
+          "protesters"
+        ], 
+        [
+          "mark", 
+          "tried", 
+          "as"
+        ], 
+        [
+          "num", 
+          "guy", 
+          "one"
+        ], 
+        [
+          "nsubj", 
+          "tried", 
+          "guy"
+        ], 
+        [
+          "xsubj", 
+          "push", 
+          "guy"
+        ], 
+        [
+          "advcl", 
+          "peaceful", 
+          "tried"
+        ], 
+        [
+          "aux", 
+          "push", 
+          "to"
+        ], 
+        [
+          "xcomp", 
+          "tried", 
+          "push"
+        ], 
+        [
+          "poss", 
+          "cause", 
+          "his"
+        ], 
+        [
+          "amod", 
+          "cause", 
+          "own"
+        ], 
+        [
+          "dobj", 
+          "push", 
+          "cause"
+        ], 
+        [
+          "nsubj", 
+          "irrelevant", 
+          "cause"
+        ], 
+        [
+          "cop", 
+          "irrelevant", 
+          "was"
+        ], 
+        [
+          "advmod", 
+          "irrelevant", 
+          "totally"
+        ], 
+        [
+          "rcmod", 
+          "cause", 
+          "irrelevant"
+        ], 
+        [
+          "det", 
+          "reason", 
+          "the"
+        ], 
+        [
+          "prep_to", 
+          "irrelevant", 
+          "reason"
+        ], 
+        [
+          "det", 
+          "people", 
+          "the"
+        ], 
+        [
+          "nsubjpass", 
+          "gathered", 
+          "people"
+        ], 
+        [
+          "auxpass", 
+          "gathered", 
+          "were"
+        ], 
+        [
+          "rcmod", 
+          "reason", 
+          "gathered"
+        ]
+      ], 
+      "words": [
+        [
+          "There", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "385", 
+            "CharacterOffsetBegin": "380", 
+            "PartOfSpeech": "EX", 
+            "Lemma": "there"
+          }
+        ], 
+        [
+          "were", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "390", 
+            "CharacterOffsetBegin": "386", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "approx", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "397", 
+            "CharacterOffsetBegin": "391", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "approx"
+          }
+        ], 
+        [
+          "1400", 
+          {
+            "NormalizedNamedEntityTag": "1400", 
+            "Timex": "<TIMEX3 tid=\"t1\" value=\"1400\" type=\"DATE\">1400</TIMEX3>", 
+            "Lemma": "1400", 
+            "CharacterOffsetEnd": "402", 
+            "PartOfSpeech": "CD", 
+            "CharacterOffsetBegin": "398", 
+            "NamedEntityTag": "DATE"
+          }
+        ], 
+        [
+          "people", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "409", 
+            "CharacterOffsetBegin": "403", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "people"
+          }
+        ], 
+        [
+          "at", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "412", 
+            "CharacterOffsetBegin": "410", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "at"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "416", 
+            "CharacterOffsetBegin": "413", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "protest", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "424", 
+            "CharacterOffsetBegin": "417", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "protest"
+          }
+        ], 
+        [
+          "which", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "430", 
+            "CharacterOffsetBegin": "425", 
+            "PartOfSpeech": "WDT", 
+            "Lemma": "which"
+          }
+        ], 
+        [
+          "was", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "434", 
+            "CharacterOffsetBegin": "431", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "mainly", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "441", 
+            "CharacterOffsetBegin": "435", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "mainly"
+          }
+        ], 
+        [
+          "peaceful", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "450", 
+            "CharacterOffsetBegin": "442", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "peaceful"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "454", 
+            "CharacterOffsetBegin": "451", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "non", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "458", 
+            "CharacterOffsetBegin": "455", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "non"
+          }
+        ], 
+        [
+          "eventful", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "467", 
+            "CharacterOffsetBegin": "459", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "eventful"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "468", 
+            "CharacterOffsetBegin": "467", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "other", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "474", 
+            "CharacterOffsetBegin": "469", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "other"
+          }
+        ], 
+        [
+          "than", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "479", 
+            "CharacterOffsetBegin": "475", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "than"
+          }
+        ], 
+        [
+          "a", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "481", 
+            "CharacterOffsetBegin": "480", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "a"
+          }
+        ], 
+        [
+          "small", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "487", 
+            "CharacterOffsetBegin": "482", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "small"
+          }
+        ], 
+        [
+          "scuffle", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "495", 
+            "CharacterOffsetBegin": "488", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "scuffle"
+          }
+        ], 
+        [
+          "at", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "498", 
+            "CharacterOffsetBegin": "496", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "at"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "502", 
+            "CharacterOffsetBegin": "499", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "start", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "508", 
+            "CharacterOffsetBegin": "503", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "start"
+          }
+        ], 
+        [
+          "between", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "516", 
+            "CharacterOffsetBegin": "509", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "between"
+          }
+        ], 
+        [
+          "some", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "521", 
+            "CharacterOffsetBegin": "517", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "some"
+          }
+        ], 
+        [
+          "of", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "524", 
+            "CharacterOffsetBegin": "522", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "of"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "528", 
+            "CharacterOffsetBegin": "525", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "protesters", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "539", 
+            "CharacterOffsetBegin": "529", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "protester"
+          }
+        ], 
+        [
+          "as", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "542", 
+            "CharacterOffsetBegin": "540", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "as"
+          }
+        ], 
+        [
+          "one", 
+          {
+            "NormalizedNamedEntityTag": "1.0", 
+            "Lemma": "one", 
+            "CharacterOffsetEnd": "546", 
+            "PartOfSpeech": "CD", 
+            "CharacterOffsetBegin": "543", 
+            "NamedEntityTag": "NUMBER"
+          }
+        ], 
+        [
+          "guy", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "550", 
+            "CharacterOffsetBegin": "547", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "guy"
+          }
+        ], 
+        [
+          "tried", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "556", 
+            "CharacterOffsetBegin": "551", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "try"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "559", 
+            "CharacterOffsetBegin": "557", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "push", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "564", 
+            "CharacterOffsetBegin": "560", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "push"
+          }
+        ], 
+        [
+          "his", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "568", 
+            "CharacterOffsetBegin": "565", 
+            "PartOfSpeech": "PRP$", 
+            "Lemma": "he"
+          }
+        ], 
+        [
+          "own", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "572", 
+            "CharacterOffsetBegin": "569", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "own"
+          }
+        ], 
+        [
+          "cause", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "578", 
+            "CharacterOffsetBegin": "573", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "cause"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "579", 
+            "CharacterOffsetBegin": "578", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "which", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "585", 
+            "CharacterOffsetBegin": "580", 
+            "PartOfSpeech": "WDT", 
+            "Lemma": "which"
+          }
+        ], 
+        [
+          "was", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "589", 
+            "CharacterOffsetBegin": "586", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "totally", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "597", 
+            "CharacterOffsetBegin": "590", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "totally"
+          }
+        ], 
+        [
+          "irrelevant", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "608", 
+            "CharacterOffsetBegin": "598", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "irrelevant"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "611", 
+            "CharacterOffsetBegin": "609", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "615", 
+            "CharacterOffsetBegin": "612", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "reason", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "622", 
+            "CharacterOffsetBegin": "616", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "reason"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "626", 
+            "CharacterOffsetBegin": "623", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "people", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "633", 
+            "CharacterOffsetBegin": "627", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "people"
+          }
+        ], 
+        [
+          "were", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "638", 
+            "CharacterOffsetBegin": "634", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "gathered", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "647", 
+            "CharacterOffsetBegin": "639", 
+            "PartOfSpeech": "VBN", 
+            "Lemma": "gather"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "648", 
+            "CharacterOffsetBegin": "647", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (NP (DT The) (NN walk)) (VP (VBD went) (PP (IN from) (NP (NP (NP (NNP Square) (NNP St-Louis)) (-LRB- -LRB-) (NP (NNP Sherbrooke) (NN metro) (NN area)) (-RRB- -RRB-)) (, ,) (ADVP (IN down)) (NP (NNP Sherbrooke) (NN street)) (, ,) (PP (IN up) (NP (NNP St-Laurent))) (, ,))) (PP (IN down) (NP (NP (NP (NP (NNP Mont-Royal))) (CC and) (NP (ADVP (RB back)) (ADVP (RP up)))) (NNP St-Denis))) (S (VP (TO to) (VP (VB end) (PP (IN at) (NP (NNP Laurier) (NN metro))))))) (. .)))", 
+      "text": "The walk went from Square St-Louis (Sherbrooke metro area), down Sherbrooke street, up St-Laurent, down Mont-Royal and back up St-Denis to end at Laurier metro.", 
+      "dependencies": [
+        [
+          "det", 
+          "walk", 
+          "The"
+        ], 
+        [
+          "nsubj", 
+          "went", 
+          "walk"
+        ], 
+        [
+          "xsubj", 
+          "end", 
+          "walk"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "went"
+        ], 
+        [
+          "nn", 
+          "St-Louis", 
+          "Square"
+        ], 
+        [
+          "prep_from", 
+          "went", 
+          "St-Louis"
+        ], 
+        [
+          "nn", 
+          "area", 
+          "Sherbrooke"
+        ], 
+        [
+          "nn", 
+          "area", 
+          "metro"
+        ], 
+        [
+          "dep", 
+          "St-Louis", 
+          "area"
+        ], 
+        [
+          "advmod", 
+          "St-Louis", 
+          "down"
+        ], 
+        [
+          "nn", 
+          "street", 
+          "Sherbrooke"
+        ], 
+        [
+          "dep", 
+          "St-Louis", 
+          "street"
+        ], 
+        [
+          "prep_up", 
+          "St-Louis", 
+          "St-Laurent"
+        ], 
+        [
+          "nn", 
+          "St-Denis", 
+          "Mont-Royal"
+        ], 
+        [
+          "advmod", 
+          "up", 
+          "back"
+        ], 
+        [
+          "conj_and", 
+          "Mont-Royal", 
+          "up"
+        ], 
+        [
+          "nn", 
+          "St-Denis", 
+          "up"
+        ], 
+        [
+          "prep_down", 
+          "went", 
+          "St-Denis"
+        ], 
+        [
+          "aux", 
+          "end", 
+          "to"
+        ], 
+        [
+          "xcomp", 
+          "went", 
+          "end"
+        ], 
+        [
+          "nn", 
+          "metro", 
+          "Laurier"
+        ], 
+        [
+          "prep_at", 
+          "end", 
+          "metro"
+        ]
+      ], 
+      "words": [
+        [
+          "The", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "652", 
+            "CharacterOffsetBegin": "649", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "walk", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "657", 
+            "CharacterOffsetBegin": "653", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "walk"
+          }
+        ], 
+        [
+          "went", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "662", 
+            "CharacterOffsetBegin": "658", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "go"
+          }
+        ], 
+        [
+          "from", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "667", 
+            "CharacterOffsetBegin": "663", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "from"
+          }
+        ], 
+        [
+          "Square", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "674", 
+            "CharacterOffsetBegin": "668", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Square"
+          }
+        ], 
+        [
+          "St-Louis", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "683", 
+            "CharacterOffsetBegin": "675", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "St-Louis"
+          }
+        ], 
+        [
+          "-LRB-", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "685", 
+            "CharacterOffsetBegin": "684", 
+            "PartOfSpeech": "-LRB-", 
+            "Lemma": "-lrb-"
+          }
+        ], 
+        [
+          "Sherbrooke", 
+          {
+            "NamedEntityTag": "LOCATION", 
+            "CharacterOffsetEnd": "695", 
+            "CharacterOffsetBegin": "685", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Sherbrooke"
+          }
+        ], 
+        [
+          "metro", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "701", 
+            "CharacterOffsetBegin": "696", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "metro"
+          }
+        ], 
+        [
+          "area", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "706", 
+            "CharacterOffsetBegin": "702", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "area"
+          }
+        ], 
+        [
+          "-RRB-", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "707", 
+            "CharacterOffsetBegin": "706", 
+            "PartOfSpeech": "-RRB-", 
+            "Lemma": "-rrb-"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "708", 
+            "CharacterOffsetBegin": "707", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "down", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "713", 
+            "CharacterOffsetBegin": "709", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "down"
+          }
+        ], 
+        [
+          "Sherbrooke", 
+          {
+            "NamedEntityTag": "LOCATION", 
+            "CharacterOffsetEnd": "724", 
+            "CharacterOffsetBegin": "714", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Sherbrooke"
+          }
+        ], 
+        [
+          "street", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "731", 
+            "CharacterOffsetBegin": "725", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "street"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "732", 
+            "CharacterOffsetBegin": "731", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "up", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "735", 
+            "CharacterOffsetBegin": "733", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "up"
+          }
+        ], 
+        [
+          "St-Laurent", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "746", 
+            "CharacterOffsetBegin": "736", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "St-Laurent"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "747", 
+            "CharacterOffsetBegin": "746", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "down", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "752", 
+            "CharacterOffsetBegin": "748", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "down"
+          }
+        ], 
+        [
+          "Mont-Royal", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "763", 
+            "CharacterOffsetBegin": "753", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Mont-Royal"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "767", 
+            "CharacterOffsetBegin": "764", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "back", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "772", 
+            "CharacterOffsetBegin": "768", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "back"
+          }
+        ], 
+        [
+          "up", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "775", 
+            "CharacterOffsetBegin": "773", 
+            "PartOfSpeech": "RP", 
+            "Lemma": "up"
+          }
+        ], 
+        [
+          "St-Denis", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "784", 
+            "CharacterOffsetBegin": "776", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "St-Denis"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "787", 
+            "CharacterOffsetBegin": "785", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "end", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "791", 
+            "CharacterOffsetBegin": "788", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "end"
+          }
+        ], 
+        [
+          "at", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "794", 
+            "CharacterOffsetBegin": "792", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "at"
+          }
+        ], 
+        [
+          "Laurier", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "802", 
+            "CharacterOffsetBegin": "795", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Laurier"
+          }
+        ], 
+        [
+          "metro", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "808", 
+            "CharacterOffsetBegin": "803", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "metro"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "809", 
+            "CharacterOffsetBegin": "808", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (NP (DT Those)) (VP (VBP are) (NP (NP (DT some) (ADJP (RB pretty) (JJ busy)) (NN downtown) (NNS streets)) (PP (IN in) (NP (NNP Montreal))))) (. .)))", 
+      "text": "Those are some pretty busy downtown streets in Montreal.", 
+      "dependencies": [
+        [
+          "nsubj", 
+          "streets", 
+          "Those"
+        ], 
+        [
+          "cop", 
+          "streets", 
+          "are"
+        ], 
+        [
+          "det", 
+          "streets", 
+          "some"
+        ], 
+        [
+          "advmod", 
+          "busy", 
+          "pretty"
+        ], 
+        [
+          "amod", 
+          "streets", 
+          "busy"
+        ], 
+        [
+          "nn", 
+          "streets", 
+          "downtown"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "streets"
+        ], 
+        [
+          "prep_in", 
+          "streets", 
+          "Montreal"
+        ]
+      ], 
+      "words": [
+        [
+          "Those", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "815", 
+            "CharacterOffsetBegin": "810", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "those"
+          }
+        ], 
+        [
+          "are", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "819", 
+            "CharacterOffsetBegin": "816", 
+            "PartOfSpeech": "VBP", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "some", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "824", 
+            "CharacterOffsetBegin": "820", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "some"
+          }
+        ], 
+        [
+          "pretty", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "831", 
+            "CharacterOffsetBegin": "825", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "pretty"
+          }
+        ], 
+        [
+          "busy", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "836", 
+            "CharacterOffsetBegin": "832", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "busy"
+          }
+        ], 
+        [
+          "downtown", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "845", 
+            "CharacterOffsetBegin": "837", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "downtown"
+          }
+        ], 
+        [
+          "streets", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "853", 
+            "CharacterOffsetBegin": "846", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "street"
+          }
+        ], 
+        [
+          "in", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "856", 
+            "CharacterOffsetBegin": "854", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "in"
+          }
+        ], 
+        [
+          "Montreal", 
+          {
+            "NamedEntityTag": "LOCATION", 
+            "CharacterOffsetEnd": "865", 
+            "CharacterOffsetBegin": "857", 
+            "PartOfSpeech": "NNP", 
+            "Lemma": "Montreal"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "866", 
+            "CharacterOffsetBegin": "865", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (S (NP (DT The) (NNS cops)) (VP (VBD were) (ADJP (JJ present)))) (, ,) (S (NP (DT some)) (PP (IN at) (NP (NP (DT the) (NN front)) (PP (IN of) (NP (NP (DT the) (NN march)) (, ,) (NP (NP (DT some)) (PP (IN along) (NP (DT the) (NNS sides))))))))) (CC and) (S (NP (DT some)) (PP (IN in) (NP (DT the) (NN back)))) (. .)))", 
+      "text": "The cops were present, some at the front of the march, some along the sides and some in the back.", 
+      "dependencies": [
+        [
+          "det", 
+          "cops", 
+          "The"
+        ], 
+        [
+          "nsubj", 
+          "present", 
+          "cops"
+        ], 
+        [
+          "cop", 
+          "present", 
+          "were"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "present"
+        ], 
+        [
+          "conj_and", 
+          "present", 
+          "some"
+        ], 
+        [
+          "dep", 
+          "some", 
+          "at"
+        ], 
+        [
+          "det", 
+          "front", 
+          "the"
+        ], 
+        [
+          "pobj", 
+          "at", 
+          "front"
+        ], 
+        [
+          "det", 
+          "march", 
+          "the"
+        ], 
+        [
+          "prep_of", 
+          "front", 
+          "march"
+        ], 
+        [
+          "appos", 
+          "march", 
+          "some"
+        ], 
+        [
+          "det", 
+          "sides", 
+          "the"
+        ], 
+        [
+          "prep_along", 
+          "some", 
+          "sides"
+        ], 
+        [
+          "conj_and", 
+          "present", 
+          "some"
+        ], 
+        [
+          "dep", 
+          "some", 
+          "in"
+        ], 
+        [
+          "det", 
+          "back", 
+          "the"
+        ], 
+        [
+          "pobj", 
+          "in", 
+          "back"
+        ]
+      ], 
+      "words": [
+        [
+          "The", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "870", 
+            "CharacterOffsetBegin": "867", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "cops", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "875", 
+            "CharacterOffsetBegin": "871", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "cop"
+          }
+        ], 
+        [
+          "were", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "880", 
+            "CharacterOffsetBegin": "876", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "present", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "888", 
+            "CharacterOffsetBegin": "881", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "present"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "889", 
+            "CharacterOffsetBegin": "888", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "some", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "894", 
+            "CharacterOffsetBegin": "890", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "some"
+          }
+        ], 
+        [
+          "at", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "897", 
+            "CharacterOffsetBegin": "895", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "at"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "901", 
+            "CharacterOffsetBegin": "898", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "front", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "907", 
+            "CharacterOffsetBegin": "902", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "front"
+          }
+        ], 
+        [
+          "of", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "910", 
+            "CharacterOffsetBegin": "908", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "of"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NormalizedNamedEntityTag": "XXXX-03", 
+            "Timex": "<TIMEX3 tid=\"t1\" value=\"XXXX-03\" type=\"DATE\">the march</TIMEX3>", 
+            "Lemma": "the", 
+            "CharacterOffsetEnd": "914", 
+            "PartOfSpeech": "DT", 
+            "CharacterOffsetBegin": "911", 
+            "NamedEntityTag": "DATE"
+          }
+        ], 
+        [
+          "march", 
+          {
+            "NormalizedNamedEntityTag": "XXXX-03", 
+            "Timex": "<TIMEX3 tid=\"t1\" value=\"XXXX-03\" type=\"DATE\">the march</TIMEX3>", 
+            "Lemma": "march", 
+            "CharacterOffsetEnd": "920", 
+            "PartOfSpeech": "NN", 
+            "CharacterOffsetBegin": "915", 
+            "NamedEntityTag": "DATE"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "921", 
+            "CharacterOffsetBegin": "920", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "some", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "926", 
+            "CharacterOffsetBegin": "922", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "some"
+          }
+        ], 
+        [
+          "along", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "932", 
+            "CharacterOffsetBegin": "927", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "along"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "936", 
+            "CharacterOffsetBegin": "933", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "sides", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "942", 
+            "CharacterOffsetBegin": "937", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "side"
+          }
+        ], 
+        [
+          "and", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "946", 
+            "CharacterOffsetBegin": "943", 
+            "PartOfSpeech": "CC", 
+            "Lemma": "and"
+          }
+        ], 
+        [
+          "some", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "951", 
+            "CharacterOffsetBegin": "947", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "some"
+          }
+        ], 
+        [
+          "in", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "954", 
+            "CharacterOffsetBegin": "952", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "in"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "958", 
+            "CharacterOffsetBegin": "955", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "back", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "963", 
+            "CharacterOffsetBegin": "959", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "back"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "964", 
+            "CharacterOffsetBegin": "963", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (S (NP (ADJP (NP (DT The) (NN riot)) (JJ ready)) (NNS cops)) (VP (VBD were) (NP (NP (DT all)) (PP (IN on) (NP (NN side) (NNS streets)))) (PP (IN out) (IN of) (NP (NP (NN view)) (PP (IN of) (NP (DT the) (NN crowd))))) (SBAR (RB so) (IN as) (S (S (RB not) (VP (TO to) (VP (VB get) (NP (PRP them)) (ADVP (RB too))))) (VP (VBD pumped))))) (. .)))", 
+      "text": "The riot ready cops were all on side streets out of view of the crowd so as not to get them too pumped.", 
+      "dependencies": [
+        [
+          "det", 
+          "riot", 
+          "The"
+        ], 
+        [
+          "npadvmod", 
+          "ready", 
+          "riot"
+        ], 
+        [
+          "amod", 
+          "cops", 
+          "ready"
+        ], 
+        [
+          "nsubj", 
+          "all", 
+          "cops"
+        ], 
+        [
+          "cop", 
+          "all", 
+          "were"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "all"
+        ], 
+        [
+          "nn", 
+          "streets", 
+          "side"
+        ], 
+        [
+          "prep_on", 
+          "all", 
+          "streets"
+        ], 
+        [
+          "prep_out_of", 
+          "all", 
+          "view"
+        ], 
+        [
+          "det", 
+          "crowd", 
+          "the"
+        ], 
+        [
+          "prep_of", 
+          "view", 
+          "crowd"
+        ], 
+        [
+          "advmod", 
+          "pumped", 
+          "so"
+        ], 
+        [
+          "dep", 
+          "pumped", 
+          "as"
+        ], 
+        [
+          "neg", 
+          "get", 
+          "not"
+        ], 
+        [
+          "aux", 
+          "get", 
+          "to"
+        ], 
+        [
+          "csubj", 
+          "pumped", 
+          "get"
+        ], 
+        [
+          "dobj", 
+          "get", 
+          "them"
+        ], 
+        [
+          "advmod", 
+          "get", 
+          "too"
+        ], 
+        [
+          "dep", 
+          "all", 
+          "pumped"
+        ]
+      ], 
+      "words": [
+        [
+          "The", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "968", 
+            "CharacterOffsetBegin": "965", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "riot", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "973", 
+            "CharacterOffsetBegin": "969", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "riot"
+          }
+        ], 
+        [
+          "ready", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "979", 
+            "CharacterOffsetBegin": "974", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "ready"
+          }
+        ], 
+        [
+          "cops", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "984", 
+            "CharacterOffsetBegin": "980", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "cop"
+          }
+        ], 
+        [
+          "were", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "989", 
+            "CharacterOffsetBegin": "985", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "all", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "993", 
+            "CharacterOffsetBegin": "990", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "all"
+          }
+        ], 
+        [
+          "on", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "996", 
+            "CharacterOffsetBegin": "994", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "on"
+          }
+        ], 
+        [
+          "side", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1001", 
+            "CharacterOffsetBegin": "997", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "side"
+          }
+        ], 
+        [
+          "streets", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1009", 
+            "CharacterOffsetBegin": "1002", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "street"
+          }
+        ], 
+        [
+          "out", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1013", 
+            "CharacterOffsetBegin": "1010", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "out"
+          }
+        ], 
+        [
+          "of", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1016", 
+            "CharacterOffsetBegin": "1014", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "of"
+          }
+        ], 
+        [
+          "view", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1021", 
+            "CharacterOffsetBegin": "1017", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "view"
+          }
+        ], 
+        [
+          "of", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1024", 
+            "CharacterOffsetBegin": "1022", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "of"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1028", 
+            "CharacterOffsetBegin": "1025", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "the"
+          }
+        ], 
+        [
+          "crowd", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1034", 
+            "CharacterOffsetBegin": "1029", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "crowd"
+          }
+        ], 
+        [
+          "so", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1037", 
+            "CharacterOffsetBegin": "1035", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "so"
+          }
+        ], 
+        [
+          "as", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1040", 
+            "CharacterOffsetBegin": "1038", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "as"
+          }
+        ], 
+        [
+          "not", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1044", 
+            "CharacterOffsetBegin": "1041", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "not"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1047", 
+            "CharacterOffsetBegin": "1045", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "get", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1051", 
+            "CharacterOffsetBegin": "1048", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "get"
+          }
+        ], 
+        [
+          "them", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1056", 
+            "CharacterOffsetBegin": "1052", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "they"
+          }
+        ], 
+        [
+          "too", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1060", 
+            "CharacterOffsetBegin": "1057", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "too"
+          }
+        ], 
+        [
+          "pumped", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1067", 
+            "CharacterOffsetBegin": "1061", 
+            "PartOfSpeech": "VBD", 
+            "Lemma": "pump"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1068", 
+            "CharacterOffsetBegin": "1067", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }, 
+    {
+      "parsetree": "(ROOT (SINV (ADVP (RB Here)) (VP (VBP are)) (NP (NP (DT a) (JJ few) (NNS images)) (PP (IN from) (NP (DT the) (NN march)))) (, ,) (S (VP (VB click) (PP (IN on) (NP (PRP$ my) (NN FLICKR) (S (VP (TO to) (VP (VB see) (PP (IN about) (NP (NP (CD 40)) (PP (IN of) (NP (PRP them)))))))))))) (. .)))", 
+      "text": "Here are a few images from the march, click on my FLICKR to see about 40 of them.", 
+      "dependencies": [
+        [
+          "advmod", 
+          "are", 
+          "Here"
+        ], 
+        [
+          "root", 
+          "ROOT", 
+          "are"
+        ], 
+        [
+          "det", 
+          "images", 
+          "a"
+        ], 
+        [
+          "amod", 
+          "images", 
+          "few"
+        ], 
+        [
+          "nsubj", 
+          "are", 
+          "images"
+        ], 
+        [
+          "det", 
+          "march", 
+          "the"
+        ], 
+        [
+          "prep_from", 
+          "images", 
+          "march"
+        ], 
+        [
+          "ccomp", 
+          "are", 
+          "click"
+        ], 
+        [
+          "poss", 
+          "FLICKR", 
+          "my"
+        ], 
+        [
+          "prep_on", 
+          "click", 
+          "FLICKR"
+        ], 
+        [
+          "aux", 
+          "see", 
+          "to"
+        ], 
+        [
+          "infmod", 
+          "FLICKR", 
+          "see"
+        ], 
+        [
+          "prep_about", 
+          "see", 
+          "40"
+        ], 
+        [
+          "prep_of", 
+          "40", 
+          "them"
+        ]
+      ], 
+      "words": [
+        [
+          "Here", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1073", 
+            "CharacterOffsetBegin": "1069", 
+            "PartOfSpeech": "RB", 
+            "Lemma": "here"
+          }
+        ], 
+        [
+          "are", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1077", 
+            "CharacterOffsetBegin": "1074", 
+            "PartOfSpeech": "VBP", 
+            "Lemma": "be"
+          }
+        ], 
+        [
+          "a", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1079", 
+            "CharacterOffsetBegin": "1078", 
+            "PartOfSpeech": "DT", 
+            "Lemma": "a"
+          }
+        ], 
+        [
+          "few", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1083", 
+            "CharacterOffsetBegin": "1080", 
+            "PartOfSpeech": "JJ", 
+            "Lemma": "few"
+          }
+        ], 
+        [
+          "images", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1090", 
+            "CharacterOffsetBegin": "1084", 
+            "PartOfSpeech": "NNS", 
+            "Lemma": "image"
+          }
+        ], 
+        [
+          "from", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1095", 
+            "CharacterOffsetBegin": "1091", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "from"
+          }
+        ], 
+        [
+          "the", 
+          {
+            "NormalizedNamedEntityTag": "XXXX-03", 
+            "Timex": "<TIMEX3 tid=\"t1\" value=\"XXXX-03\" type=\"DATE\">the march</TIMEX3>", 
+            "Lemma": "the", 
+            "CharacterOffsetEnd": "1099", 
+            "PartOfSpeech": "DT", 
+            "CharacterOffsetBegin": "1096", 
+            "NamedEntityTag": "DATE"
+          }
+        ], 
+        [
+          "march", 
+          {
+            "NormalizedNamedEntityTag": "XXXX-03", 
+            "Timex": "<TIMEX3 tid=\"t1\" value=\"XXXX-03\" type=\"DATE\">the march</TIMEX3>", 
+            "Lemma": "march", 
+            "CharacterOffsetEnd": "1105", 
+            "PartOfSpeech": "NN", 
+            "CharacterOffsetBegin": "1100", 
+            "NamedEntityTag": "DATE"
+          }
+        ], 
+        [
+          ",", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1106", 
+            "CharacterOffsetBegin": "1105", 
+            "PartOfSpeech": ",", 
+            "Lemma": ","
+          }
+        ], 
+        [
+          "click", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1112", 
+            "CharacterOffsetBegin": "1107", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "click"
+          }
+        ], 
+        [
+          "on", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1115", 
+            "CharacterOffsetBegin": "1113", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "on"
+          }
+        ], 
+        [
+          "my", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1118", 
+            "CharacterOffsetBegin": "1116", 
+            "PartOfSpeech": "PRP$", 
+            "Lemma": "my"
+          }
+        ], 
+        [
+          "FLICKR", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1125", 
+            "CharacterOffsetBegin": "1119", 
+            "PartOfSpeech": "NN", 
+            "Lemma": "flickr"
+          }
+        ], 
+        [
+          "to", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1128", 
+            "CharacterOffsetBegin": "1126", 
+            "PartOfSpeech": "TO", 
+            "Lemma": "to"
+          }
+        ], 
+        [
+          "see", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1132", 
+            "CharacterOffsetBegin": "1129", 
+            "PartOfSpeech": "VB", 
+            "Lemma": "see"
+          }
+        ], 
+        [
+          "about", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1138", 
+            "CharacterOffsetBegin": "1133", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "about"
+          }
+        ], 
+        [
+          "40", 
+          {
+            "NormalizedNamedEntityTag": "~40.0", 
+            "Lemma": "40", 
+            "CharacterOffsetEnd": "1141", 
+            "PartOfSpeech": "CD", 
+            "CharacterOffsetBegin": "1139", 
+            "NamedEntityTag": "NUMBER"
+          }
+        ], 
+        [
+          "of", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1144", 
+            "CharacterOffsetBegin": "1142", 
+            "PartOfSpeech": "IN", 
+            "Lemma": "of"
+          }
+        ], 
+        [
+          "them", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1149", 
+            "CharacterOffsetBegin": "1145", 
+            "PartOfSpeech": "PRP", 
+            "Lemma": "they"
+          }
+        ], 
+        [
+          ".", 
+          {
+            "NamedEntityTag": "O", 
+            "CharacterOffsetEnd": "1150", 
+            "CharacterOffsetBegin": "1149", 
+            "PartOfSpeech": ".", 
+            "Lemma": "."
+          }
+        ]
+      ]
+    }
+  ]
+}

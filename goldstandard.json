@@ -1,0 +1,604 @@
+# Format:  (sentence, (orientation, evlauation, action))
+
+[
+  [
+    "It was in the roiling crowd that I heard protest chants for the first time, among them the signature \"As-Shaab youreed asqaat el-nizam!", 
+    [
+      1, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "\" she said \"It's a bogus charge.", 
+    [
+      0, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "You could take a camel or four-wheeler to the desert, go snorkelling or diving, or sit around doing nothing all day.", 
+    [
+      1, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "No cost to visit and useHuman Rights Watch, Watching a New Beginning in Egypt   , 28 January 2011, available at: http://www.unhcr.org/refworld/docid/4d4a5256c.html [accessed 3 February 2011]  Live updates from Egypt >> (Alexandria) - For much of Friday afternoon, this city teetered between hope and fear.", 
+    [
+      0, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "There were police everywhere, blocking each street in two rows (one of regular cops, one on Richmond of riot police).", 
+    [
+      1, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "They did.", 
+    [
+      0, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "She mentions that while the cars were burning she was getting press from the Police saying \"Look what's happening!", 
+    [
+      0, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "I came away feeling considerable shame about the minority of anti-war protesters who choose to support lesser evils, instead of opposing evil altogether.", 
+    [
+      0, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "We were walking south, toward the fortified barricade, and they were not going to let us pass unobstructed.", 
+    [
+      1, 
+      1, 
+      1
+    ]
+  ], 
+  [
+    "It was a unique experience.", 
+    [
+      0, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "I do think he shares responsibility, especially for what happened on Saturday night and on Sunday, but he is far from the sole person responsible.", 
+    [
+      0, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "As we joined the already mile long group of protesters as they marched down the  Horse Guards Avenue towards Millbank and the  Tate Gallery we conducted a few vox pops, recorded a few chants and took some pictures to capture the moment.", 
+    [
+      1, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "An account of my experiences last night may offer a very limited and shallow taster of what these prisoners of one of the Middle East's oldest dictatorships live through every day.----Listen to the audio recordings from inside the police truck  here-Other journalists remain in detention - follow #jan25 on Twitter for details and spread the word---    In the streets around Abdel Muni Riyad square, it was immediately clear that the atmosphere had changed.", 
+    [
+      1, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "Mubarak is the best.", 
+    [
+      0, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "This made a mockery of police assurances that they would comply with the Scottish Parliament decision to allow the protests to take place.", 
+    [
+      0, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "Mubarak had said in his speech that he would die on Egyptian soil; many of the people I talked to said they were prepared to die in Tahrir Square if he didn't yield.", 
+    [
+      1, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "\" he screamed repeatedly, but says they didn't listen.", 
+    [
+      1, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "Glory, Glory Hallelujah.... .", 
+    [
+      0, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "there was no place in the cages to even sit,\" he said Monday.", 
+    [
+      0, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "Thankfully, I had my gospel signs in the car and could retrieve them in time for all the protesters to have an opportunity to read a few verses of Scripture.", 
+    [
+      1, 
+      1, 
+      1
+    ]
+  ], 
+  [
+    "We were crammed together in a group, pushing, stepping on each other, scrambling for clean air that didn't exist.", 
+    [
+      1, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "Are they serious?", 
+    [
+      0, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "The march was dealing with complex issues, the mandate this gives to the unions and the wide range of groups marching to progress with arguing the case for a fairer society is a powerful one.", 
+    [
+      1, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "I made my way through the throng and asked him why he wasn't taking up the chance to get out.", 
+    [
+      1, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "I want to send a message to my wife; I'm not afraid but she will be so scared, this is my first protest and she told me not to come here today.", 
+    [
+      1, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "I took advantage of the peace and got some more sleep.", 
+    [
+      0, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "So many vital causes like maternal health rights, genocide in Ethiopia, climate justice, gay rights, the United Steelworkers, and people just chanting for democracy.", 
+    [
+      1, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "Recognizing the abuse of their own, and a fundamental democratic right denied, they began to squeak.", 
+    [
+      1, 
+      1, 
+      1
+    ]
+  ], 
+  [
+    "There were reports of people being run over by horses.", 
+    [
+      1, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "In fact, it was reported that over 900 people had been detained and/or questioned over the weekend.", 
+    [
+      1, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "I knew it really was going to be a big one from the moment I left home.", 
+    [
+      0, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "Pieces of metal and other debris seemed to be falling from the sky.", 
+    [
+      1, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "And so this is how the afternoon continued, various speakers at the main stage attracted more attention than others, one even got at least a thousand people to link arms and dance, all captured on television and replayed on the nightly news for the entire country to see.", 
+    [
+      0, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "March For The Alternative       The demonstration had an estimated 250,000 people on it.", 
+    [
+      1, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "They started screaming \"HANDS UP HANDS UP\" to all the students.", 
+    [
+      0, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "November 11th, 2010 by The Lost Boy   Today 50,000 students from around the UK took to the streets of London to protest against our government's plans to raise university tuition fees to astronomical heights.", 
+    [
+      0, 
+      1, 
+      1
+    ]
+  ], 
+  [
+    "This line seemed determined to stay, even as a large part of the demonstration started to pile onto the street behind between the anarchist front-line.", 
+    [
+      1, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "So, maybe you're questioning my previous statement about witnessing humans transitioning into animals but perhaps this will clear it up if what I've said already hasn't.", 
+    [
+      1, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "Not exactly the safest place to start trouble.", 
+    [
+      1, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "After questioning a few locals about what was going on, we were told that another anti-government protest would be taking place in about 45 minutes.", 
+    [
+      1, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "I hope the government understands that raising tuition fees to the extent that they'll become one of the highest in the world will not only put off international students from studying here but also our own; it's completely unfair that the coalition government is giving us the students the brunt of the cuts when really we should be invested in.", 
+    [
+      1, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "After a while, the most clearly anarchist contingent (black-clad with quite a few masks along with the four horsemen) decided to move towards the apparently unprotected and strangely not boarded windows of the Royal Bank of Scotland down Threadneedle Street.", 
+    [
+      1, 
+      1, 
+      1
+    ]
+  ], 
+  [
+    "Shortly after arriving, I recognized prisoners arriving who hadn't been with us by the hotel.", 
+    [
+      1, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "There were rumors that the Egyptian secret police were paying people to film westerners in Tahrir, but I doubt it.", 
+    [
+      1, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "This is unfortunate.", 
+    [
+      0, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "and i still love it.", 
+    [
+      0, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "If folks recall, days after the protest began, out of the blue 'some people' decided to go loot the national Egyptian Museum.", 
+    [
+      1, 
+      1, 
+      1
+    ]
+  ], 
+  [
+    "Do you think you are a hero?", 
+    [
+      0, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "Following the release of a U.S. State Dept.", 
+    [
+      1, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "After the car lit on fire three cops appeared from nowhere and arrested him.", 
+    [
+      1, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "\"Get out there sister\", I really mean \"niece\".", 
+    [
+      0, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "Our resident director, Kathryn, tries to schedule one excursion each week and these are already paid for by our program fees.", 
+    [
+      1, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "A double line of exhausted and battered police officers, outnumbered seven or eight to one.", 
+    [
+      1, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "She was released, without charges being laid, at 5 a. m.  Natalie Logan, 21, U of T student  Logan was taking photos at The Esplanade on Saturday evening when she was arrested.", 
+    [
+      1, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "\" Besides, I did not have a have a portfolio that would get me into any film or art school.", 
+    [
+      1, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "Eventually folks left at around 9 am that morning.", 
+    [
+      1, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "Another one of their tactics was to run at the crowd on horses most likely to split the crowd into smaller groups.", 
+    [
+      1, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "Instead, the activists here wanted nothing more than to show that there IS homosexuality in Serbia - and to be able to announce who they are.", 
+    [
+      1, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "At the same time, I want them to be heard.", 
+    [
+      0, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "\"Those filthy foreigners and their reports,\" he said.", 
+    [
+      0, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "The march was 2-3 miles long and the estimate is about 1500 people per block... so we can do the math for ourselves.", 
+    [
+      1, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "When I arrived I saw hordes of people on the street and in Parliament Square.", 
+    [
+      1, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "So...", 
+    [
+      0, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "The  mugamma has been closed for days now, shielded by the military, patrolled by soldiers.", 
+    [
+      1, 
+      0, 
+      0
+    ]
+  ], 
+  [
+    "Demonstrators wearing police hats danced on tables.", 
+    [
+      0, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "I decided to go out on Saturday to check out the various protests solely for the purpose of taking some photos.", 
+    [
+      1, 
+      0, 
+      1
+    ]
+  ], 
+  [
+    "I actually witnessed the transition from humans to animals as I watched crowds of people throw bricks through store windows and spray paint protests over building walls.", 
+    [
+      1, 
+      1, 
+      1
+    ]
+  ], 
+  [
+    "Police at the back of the demonstration, unbeknownst to the rest of us, harassed and intimidated and in some cases detained protesters.", 
+    [
+      1, 
+      1, 
+      1
+    ]
+  ], 
+  [
+    ")  The contrast between what I and thousands of others experienced and what was shown for the next 24 hours on television was astounding.", 
+    [
+      1, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "Several charges have been made by the police to keep the protesters back, and that space is the most dangerous place in the whole of Brighton right now.", 
+    [
+      1, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "This was a beautiful thing.", 
+    [
+      0, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "I was dying a little on the inside.", 
+    [
+      0, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "She seems used to it.", 
+    [
+      0, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "Here is a link to photos of inside the detention center:http://www.blogto.com/city/2010/06/inside_the_g20_eastern_avenue_detention_centre/ So, that's my rant.", 
+    [
+      0, 
+      1, 
+      0
+    ]
+  ], 
+  [
+    "A riot policeman in America would just as soon beat the shit out of you and haul you off to prison (which we have witnessed them do) than allow you to do to them what the Greeks do to their riot police.", 
+    [
+      0, 
+      1, 
+      0
+    ]
+  ]
+]
